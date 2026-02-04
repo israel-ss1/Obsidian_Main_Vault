@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 João|1 João]]"
-tags: [biblia]
+Livro: "[[1 João|1 João]]"
+tags:
+  - biblia
 ---
 
 # 1 João 4

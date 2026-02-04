@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Lucas|Lucas]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Lucas|Lucas]]"
+tags:
+  - biblia
 ---
 
 # Lucas 5

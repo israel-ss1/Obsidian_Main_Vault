@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Zacarias|Zacarias]]"
+tags:
+  - biblia
 ---
 
 # Zacarias 12

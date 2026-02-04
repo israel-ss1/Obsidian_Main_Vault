@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Levítico|Levítico]]"
-tags: [biblia]
+Livro: "[[Levítico|Levítico]]"
+tags:
+  - biblia
 ---
 
 # Levítico 3

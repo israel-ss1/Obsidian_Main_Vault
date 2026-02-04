@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
-tags: [biblia]
+Livro: "[[Gênesis|Gênesis]]"
+tags:
+  - biblia
 ---
 
 # Gênesis 13

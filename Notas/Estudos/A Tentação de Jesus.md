@@ -145,7 +145,7 @@ A glória das civilizações não eram expressadas somente por riquezas, embora 
 **Tecnologia**: alguns reinos dominaram primeiro técnicas que os faziam evoluir e adquirir recursos, riquezas e exércitos.
 **Obras extraordinárias**: reinos que criavam obras como grandes templos, estradas, aquedutos, arenas, concentravam melhor as pessoas e ganhavam importância.
 
-Todos os itens da lista acima apresentam condições para o mesmo objetivo, poder. A busca pela glória dos reinos visa sempre a manutenção do [[poder]] ou aquisição daqueles estão fora do status core. Ainda hoje a [[fama]], [[riqueza]], [[influência]] (exércitos), [[tecnologia]] e os grandes feitos tem o mesmo objetivo, angariar poder para estar acima dos outros.
+Todos os itens da lista acima apresentam condições para o mesmo objetivo, poder. A busca pela glória dos reinos visa sempre a manutenção do [[poder]] ou aquisição daqueles estão fora do status core. Ainda hoje a [[fama]], [[riqueza]], [[Influência]] (exércitos), [[tecnologia]] e os grandes feitos tem o mesmo objetivo, angariar poder para estar acima dos outros.
 
 
 Deus não pode passar a glória dele para ninguém. E o diabo, pode?

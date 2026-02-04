@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Jeremias|Jeremias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Jeremias|Jeremias]]"
+tags:
+  - biblia
 ---
 
 # Jeremias 23

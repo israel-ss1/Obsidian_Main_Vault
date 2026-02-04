@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Filipenses|Filipenses]]"
-tags: [biblia]
+Livro: "[[Filipenses|Filipenses]]"
+tags:
+  - biblia
 ---
 
 # Filipenses 1

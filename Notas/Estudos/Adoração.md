@@ -1,9 +1,8 @@
 ---
 tags:
   - Estudo
+  - Conceito
 ---
-#Conceito 
-
 Podemos definir adoração como uma resposta do ser humano ao reconhecimento da majestade, santidade e amor de Deus. Uma manifestação de nosso amor e reverência por Ele.
 
 O Antigo Testamento utiliza diversas palavras para descrever a adoração, cada uma com sua própria conotação. As mais proeminentes são:

@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
-tags: [biblia]
+Livro: "[[2 Reis|2 Reis]]"
+tags:
+  - biblia
 ---
 
 # 2 Reis 4

@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Jonas|Jonas]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Jonas|Jonas]]"
+tags:
+  - biblia
 ---
 
 # Jonas 1

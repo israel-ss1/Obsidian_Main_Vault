@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Malaquias|Malaquias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Malaquias|Malaquias]]"
+tags:
+  - biblia
 ---
 
 # Malaquias 1

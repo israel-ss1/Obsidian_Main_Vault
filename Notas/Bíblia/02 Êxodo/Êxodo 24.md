@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Êxodo|Êxodo]]"
-tags: [biblia]
+Livro: "[[Êxodo|Êxodo]]"
+tags:
+  - biblia
 ---
 
 # Êxodo 24

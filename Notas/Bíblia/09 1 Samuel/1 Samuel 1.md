@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Samuel|1 Samuel]]"
-tags: [biblia]
+Livro: "[[1 Samuel|1 Samuel]]"
+tags:
+  - biblia
 ---
 
 # 1 Samuel 1

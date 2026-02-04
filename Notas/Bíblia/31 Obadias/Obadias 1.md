@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Obadias|Obadias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Obadias|Obadias]]"
+tags:
+  - biblia
 ---
 
 # Obadias 1

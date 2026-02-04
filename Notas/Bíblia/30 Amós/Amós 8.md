@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Amós|Amós]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Amós|Amós]]"
+tags:
+  - biblia
 ---
 
 # Amós 8

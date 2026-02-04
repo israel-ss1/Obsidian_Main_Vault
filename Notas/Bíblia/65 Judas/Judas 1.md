@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Judas|Judas]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Judas|Judas]]"
+tags:
+  - biblia
 ---
 
 # Judas 1

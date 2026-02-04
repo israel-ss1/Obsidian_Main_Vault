@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Samuel|2 Samuel]]"
-tags: [biblia]
+Livro: "[[2 Samuel|2 Samuel]]"
+tags:
+  - biblia
 ---
 
 # 2 Samuel 2

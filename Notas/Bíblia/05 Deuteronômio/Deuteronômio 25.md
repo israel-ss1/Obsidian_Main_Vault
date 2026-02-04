@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
-tags: [biblia]
+Livro: "[[Deuteronômio|Deuteronômio]]"
+tags:
+  - biblia
 ---
 
 # Deuteronômio 25

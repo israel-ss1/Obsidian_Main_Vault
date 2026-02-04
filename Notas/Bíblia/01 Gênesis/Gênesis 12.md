@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Gênesis|Gênesis]]"
-tags: [biblia]
+Livro: "[[Gênesis|Gênesis]]"
+tags:
+  - biblia
 ---
 
 # Gênesis 12
@@ -15,7 +16,7 @@ tags: [biblia]
 
 **5** E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as almas que lhe acresceram em Harã; e saíram para irem à terra de Canaã; e chegaram à terra de Canaã. ^v5
 
-**6** E passou Abrão por aquela terra até ao lugar de Siquém, até ao carvalho de Moré; e estavam então os cananeus na terra. ^v6
+**6** E passou Abrão por aquela terra até ao lugar de Siquém, até ao carvalho [^1]de Moré; e estavam então os cananeus na terra. ^v6
 
 **7** E apareceu o Senhor a Abrão, e disse: À tua descendência darei esta terra. E edificou ali um altar ao Senhor, que lhe aparecera. ^v7
 
@@ -44,3 +45,5 @@ tags: [biblia]
 **19** Por que disseste: É minha irmã? Por isso a tomei por minha mulher; agora, pois, eis aqui tua mulher; toma-a e vai-te. ^v19
 
 **20** E Faraó deu ordens aos seus homens a respeito dele; e acompanharam-no, a ele, e a sua mulher, e a tudo o que tinha. ^v20
+
+[^1]: [[Deuteronômio 11#^v30|Deuteronômio 11:30]]

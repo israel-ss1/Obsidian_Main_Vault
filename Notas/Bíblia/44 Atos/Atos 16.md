@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Atos|Atos]]"
-tags: [biblia]
+Livro: "[[Atos|Atos]]"
+tags:
+  - biblia
 ---
 
 # Atos 16

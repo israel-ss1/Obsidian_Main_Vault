@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Neemias|Neemias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Neemias|Neemias]]"
+tags:
+  - biblia
 ---
 
 # Neemias 5

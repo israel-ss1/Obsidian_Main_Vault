@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Ageu|Ageu]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Ageu|Ageu]]"
+tags:
+  - biblia
 ---
 
 # Ageu 1

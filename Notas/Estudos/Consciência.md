@@ -30,12 +30,7 @@ A segunda é o é natureza criacionista, ou a capacidade de criar coisas a parti
 
 **Ampla –** Esta é responsável por albergar todos os conhecimentos e **experiências** ao longo da existência, porém sem ser um dispositivo ou área associada à memória. Esta dimensão possui em seu registo, todo o conhecimentos e competências que adquirimos ao longo da existência. Associada á processual, é possível “viajar no tempo” da existência do individuo com base nesse registo, tudo dentro dos limites impostos pelo desenvolvimento mental do próprio indivíduo.
 
-
-
-
-
-
-#Consciência
+## Introdução
 
 Este estudo é um esforço para definir o que eu penso sobre consciência. Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos, uma vez que ainda não é possível provar a existência de outros seres semelhantes a nós. 
 

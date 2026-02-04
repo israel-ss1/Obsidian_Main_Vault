@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Hebreus|Hebreus]]"
-tags: [biblia]
+Livro: "[[Hebreus|Hebreus]]"
+tags:
+  - biblia
 ---
 
 # Hebreus 2

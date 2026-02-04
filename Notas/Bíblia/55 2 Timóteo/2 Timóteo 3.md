@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Timóteo|2 Timóteo]]"
-tags: [biblia]
+Livro: "[[2 Timóteo|2 Timóteo]]"
+tags:
+  - biblia
 ---
 
 # 2 Timóteo 3

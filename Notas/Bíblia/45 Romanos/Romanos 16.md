@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Romanos|Romanos]]"
-tags: [biblia]
+Livro: "[[Romanos|Romanos]]"
+tags:
+  - biblia
 ---
 
 # Romanos 16

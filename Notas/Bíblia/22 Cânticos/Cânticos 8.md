@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
-tags: [biblia]
+Livro: "[[Cânticos|Cânticos]]"
+tags:
+  - biblia
 ---
 
 # Cânticos 8

@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Pedro|1 Pedro]]"
-tags: [biblia]
+Livro: "[[1 Pedro|1 Pedro]]"
+tags:
+  - biblia
 ---
 
 # 1 Pedro 4

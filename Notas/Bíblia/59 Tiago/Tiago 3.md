@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Tiago|Tiago]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Tiago|Tiago]]"
+tags:
+  - biblia
 ---
 
 # Tiago 3

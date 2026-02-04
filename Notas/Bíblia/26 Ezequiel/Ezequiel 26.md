@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Ezequiel|Ezequiel]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Ezequiel|Ezequiel]]"
+tags:
+  - biblia
 ---
 
 # Ezequiel 26

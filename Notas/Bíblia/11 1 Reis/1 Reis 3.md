@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Reis|1 Reis]]"
-tags: [biblia]
+Livro: "[[1 Reis|1 Reis]]"
+tags:
+  - biblia
 ---
 
 # 1 Reis 3

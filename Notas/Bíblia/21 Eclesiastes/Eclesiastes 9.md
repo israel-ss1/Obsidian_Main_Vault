@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Eclesiastes|Eclesiastes]]"
-tags: [biblia]
+Livro: "[[Eclesiastes|Eclesiastes]]"
+tags:
+  - biblia
 ---
 
 # Eclesiastes 9

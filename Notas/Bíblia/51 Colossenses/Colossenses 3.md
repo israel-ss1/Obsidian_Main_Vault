@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Colossenses|Colossenses]]"
-tags: [biblia]
+Livro: "[[Colossenses|Colossenses]]"
+tags:
+  - biblia
 ---
 
 # Colossenses 3

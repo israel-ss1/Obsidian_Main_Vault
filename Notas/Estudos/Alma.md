@@ -3,8 +3,6 @@ tags:
   - Estudo
   - Conceito
 ---
-#Conceito 
-
 Parte imaterial do homem. Segundo a teologia tricotômica, o homem é composto por três partes: corpo, alma e espírito. O corpo é sua porção material, presente na dimensão material denominada na bíblia por Terra. A alma é a parte imaterial do homem. Esta é imortal e nela tem origem a [[Emoção||emoção]], a [[Razão||razão]] e a [[Consciência||consciência]]. O corpo material é mortal; porém não foi feito para a morte e também viveria para sempre. Estas três características estão interligadas, concedendo ao homem uma propriedade única. 
 #### A alma relacionada a vida do ser humano
 
@@ -20,8 +18,12 @@ Uma questão interessante a se pensar são as pessoas com morte cerebral, que ho
 
 Um dos relatos bíblico que pode retratar um corpo sem a alma está em Dn 4, texto sobre o rei Nabucodonosor, que por causa da sua soberba, viveu como animal no campo. Uma situação em que penso que Deus aprisionou sua alma fora do corpo e ele viveu sem sua [[Consciência|consciência]]. Sem a alma, o corpo seria semelhante aos animais. O melhor exemplo para isto são os animais que estão vivos; porém, na minha cosmovisão não tem alma. Para o ser humano, o corpo necessita da alma. Quando Deus libertou sua alma, lhe voltou o entendimento e ele adorou a Deus e recobrou seus sentidos. 
 
-**[[Gênesis 2#^v7|Gênesis 2.7]]** - "E formou o Senhor Deus o homem do pó da terra, e soprou em seus narizes o fôlego da vida; e o homem foi feito alma vivente."
-**[[Gênesis 35#^v18|Gênesis 35.18]]** - "E aconteceu que, saindo-se-lhe a alma (porque morreu), chamou-lhe Benoni; mas seu pai chamou-lhe Benjamim."  
+> [!Bible] Gênesis 2:7
+> ![[Gênesis 2#^v7]]
+
+> [!Bible] Gênesis 35:18
+> ![[Gênesis 35#^v18]]
+
 #### O homem é uma alma-corpo
 
 Os animais Deus criou com o haja e eles surgiram vivos. Não encontrei base para dizer que os animais também possuem almas. Embora os originais tenha uma palavra alma no texto em aramaico, é uma palavra um pouco diferente na que foi usada para o homem. O homem foi formado e recebeu de Deus através do seu espírito uma porção imaterial. O ser humano não é um "animal racional", somos totalmente distintos dos animais por formação e por constituição. Mesmo que o corpo sem a alma tenda a um comportamento animalesco, Deus formou o homem sem pecado e com um corpo glorificado, com propriedade que tínhamos e perdemos em consequência do pecado. 

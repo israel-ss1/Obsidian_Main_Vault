@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Tessalonicenses|2 Tessalonicenses]]"
-tags: [biblia]
+Livro: "[[2 Tessalonicenses|2 Tessalonicenses]]"
+tags:
+  - biblia
 ---
 
 # 2 Tessalonicenses 2

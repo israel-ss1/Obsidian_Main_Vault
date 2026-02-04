@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/João|João]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/João|João]]"
+tags:
+  - biblia
 ---
 
 # João 1

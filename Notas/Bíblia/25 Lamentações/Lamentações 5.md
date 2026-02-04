@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Lamentações|Lamentações]]"
-tags: [biblia]
+Livro: "[[Lamentações|Lamentações]]"
+tags:
+  - biblia
 ---
 
 # Lamentações 5

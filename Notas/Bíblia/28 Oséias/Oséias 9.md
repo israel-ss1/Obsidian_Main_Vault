@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Oséias|Oséias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Oséias|Oséias]]"
+tags:
+  - biblia
 ---
 
 # Oséias 9

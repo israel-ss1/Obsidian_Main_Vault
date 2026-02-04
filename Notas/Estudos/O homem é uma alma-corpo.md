@@ -6,10 +6,11 @@ Podemos comparar o homem original a Jesus pós-ressurreição( e em alguns casos
 
 Existe uma relação muito direta entre o corpo e a alma humana. Creio que o ser humano foi criado para que habita-se em ambas as dimensões, material e imaterial, nos céus e na terra. Hoje não existe mais esta percepção e a ciência busca explicar os mecanismos de funcionamento do corpo sem levar em conta nossa porção imaterial. 
   
-- **Gênesis 12:5** - "E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as almas que lhes acresceram em Harã, e saíram para irem à terra de Canaã; e chegaram à terra de Canaã."    
+**[[Gênesis 12#^v5|Gênesis 12.5]]** - "E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as almas que lhes acresceram em Harã, e saíram para irem à terra de Canaã; e chegaram à terra de Canaã."    
 - **Gênesis 46:15** - "Estes são os filhos de Léia, que deu a Jacó em Padã-Arã, com sua filha Diná; todas as almas de seus filhos e de suas filhas foram trinta e três."    
 - **Gênesis 46:18** - "Estes são os filhos de Zilpa, a qual Labão deu à sua filha Léia; e deu estes a Jacó, dezesseis almas."    
 - **Gênesis 46:22** - "Estes são os filhos de Raquel, que nasceram a Jacó; todas as almas, catorze."    
 - **Gênesis 46:25** - "Estes são os filhos de Bila, a qual Labão deu à sua filha Raquel; e deu estes a Jacó; todas as almas foram sete."    
 - **Gênesis 46:26** - "Todas as almas, que vieram com Jacó ao Egito, que saíram da sua coxa (fora as mulheres dos filhos de Jacó), todas as almas foram sessenta e seis."    
 - **Gênesis 46:27** - "E os filhos de José, que lhe nasceram no Egito, eram duas almas; todas as almas da casa de Jacó, que vieram ao Egito, eram setenta."
+

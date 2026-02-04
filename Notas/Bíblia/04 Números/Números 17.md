@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Números|Números]]"
-tags: [biblia]
+Livro: "[[Números|Números]]"
+tags:
+  - biblia
 ---
 
 # Números 17

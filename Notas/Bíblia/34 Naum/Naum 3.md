@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Naum|Naum]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Naum|Naum]]"
+tags:
+  - biblia
 ---
 
 # Naum 3

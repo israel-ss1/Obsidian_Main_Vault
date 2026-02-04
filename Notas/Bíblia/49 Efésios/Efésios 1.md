@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Efésios|Efésios]]"
-tags: [biblia]
+Livro: "[[Efésios|Efésios]]"
+tags:
+  - biblia
 ---
 
 # Efésios 1

@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Coríntios|1 Coríntios]]"
-tags: [biblia]
+Livro: "[[1 Coríntios|1 Coríntios]]"
+tags:
+  - biblia
 ---
 
 # 1 Coríntios 1

@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "2d44e336157a2e04",
+        "id": "54f9efb757884f7d",
         "type": "tabs",
-        "dimension": 51.01522842639594,
         "children": [
           {
-            "id": "33671805be477e62",
+            "id": "14fcfa8fcba2cad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Adoração.md",
-                "mode": "source",
+                "file": "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adoração"
-            }
+              "title": "Gênesis 1"
+            },
+            "group": "6c8ad4b8d531582e"
           },
           {
-            "id": "a1553764b7d38b01",
+            "id": "52d115d7473cf930",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -32,31 +32,31 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "30e5a68a8af89e91",
+        "id": "654eab55af3fad52",
         "type": "tabs",
-        "dimension": 48.984771573604064,
         "children": [
           {
-            "id": "b21da39f885c8c1b",
+            "id": "0f9fbcaf9b1aaad9",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Adoração.md",
+                "file": "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "path:Notas/Bíblia  ",
@@ -69,34 +69,42 @@
                       "query": "path:Fontes  ",
                       "color": {
                         "a": 1,
-                        "rgb": 16514816
+                        "rgb": 15922718
                       }
                     },
                     {
-                      "query": "path:Notas/Estudos ",
+                      "query": "path:Notas/Sermão  ",
                       "color": {
                         "a": 1,
-                        "rgb": 11392604
+                        "rgb": 324077
+                      }
+                    },
+                    {
+                      "query": "path:Notas/Estudos  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 6084188
                       }
                     }
                   ],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.7125,
+                  "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224455,
+                  "scale": 1.0000000000000018,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Adoração"
-            }
+              "title": "Gráfico de Gênesis 1"
+            },
+            "group": "6c8ad4b8d531582e"
           }
         ]
       }
@@ -130,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Sermão  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,47 +264,46 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "templater-obsidian:Templater": false,
-      "3d-graph:3D Graph": false,
-      "juggl:Juggl global graph": false
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "33671805be477e62",
+  "active": "52d115d7473cf930",
   "lastOpenFiles": [
-    "Notas/Estudos/Adoração.md",
-    "Notas/Estudos/A Tentação de Jesus.md",
-    "Notas/Estudos/Ministério.md",
-    "Notas/Estudos/Alma.md",
-    "Fontes/Livros/1 Coríntios.md",
-    "Notas/Estudos/O homem é uma alma-corpo.md",
-    "Notas/Estudos/O Salmo 91.md",
-    "Notas/Estudos/O Sermão da Montanha.md",
-    "Notas/Estudos/Obediência.md",
-    "Notas/Bíblia/40 Mateus/Mateus 5.md",
-    "Notas/Estudos/Percepção Sensorial.md",
-    "Notas/Estudos/Servo.md",
-    "Notas/Estudos/Zettelkasten.md",
-    "Notas/Estudos/Virtude.md",
-    "Notas/Estudos/Vício.md",
-    "Notas/Estudos/Trindade.md",
-    "Notas/Estudos/Tricotomia e Dicotomia.md",
-    "Notas/Estudos/Teologia.md",
-    "Notas/Estudos/Teologia Sistemática.md",
-    "Notas/Estudos/Tentação.md",
-    "Notas/Estudos/Soberba.md",
-    "Notas/Estudos/Relacionamento.md",
-    "Notas/Estudos/Relacionamento com Jesus.md",
-    "Notas/Estudos/rebelião.md",
-    "Notas/Estudos/Razão.md",
-    "Notas/Estudos/Princípios.md",
+    "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
+    "Notas/Bíblia/20 Provérbios/Provérbios 8.md",
+    "Notas/Bíblia/Gênesis/Gênesis 1.md",
+    "Notas/Sermão/16 - Adoração.md",
+    "Notas/Sermão/14 - A Tentação de Jesus 1.md",
+    "Notas/Sermão/15 - A Tentação de Jesus 2.md",
+    "Notas/Sermão/17 - Perdão.md",
+    "Notas/Sermão/12 - Relacionamento com Jesus.md",
+    "Fontes/Biografias/Autores Bíblicos/Ageu.md",
+    "Notas/Sermão/11 - Relacionamento com Deus.md",
+    "Notas/Bíblia/Oseias/Oseias 6.md",
+    "Notas/Sermão/10 - Um chamado para edificar.md",
+    "Notas/Sermão/09 - Dissenções na igreja.md",
+    "Notas/Sermão/08 - A atualidade dos dons espirituais (doutrina).md",
+    "Notas/Sermão/07 - O exemplo da vida de José.md",
+    "Notas/Sermão/06 - Salmo 3.md",
+    "Notas/Bíblia/Oseias/Oseias 13.md",
+    "Notas/Bíblia/Oseias",
+    "Notas/Sermão/05 - A armadura de Deus.md",
+    "Notas/Bíblia/Mateus/Mateus 4.md",
+    "Notas/Sermão/04 - O andar do crente.md",
+    "1 Pedro 5 1.md",
+    "Notas/Sermão/03 - Decisões e consequências.md",
+    "Notas/Sermão/02 - Viva com Deus.md",
+    "Mateus 14 1.md",
+    "Mateus 15 1.md",
+    "Notas/Bíblia/60 1 Pedro/1 Pedro 5.md",
+    "Notas/Sermão",
+    "Fontes/Biografias/Autores Bíblicos",
+    "Fontes/Livros/Canon Bíblico",
     "Notas/Bíblia/Mateus",
     "Notas/Bíblia/Deuteronômio",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/biblia_nva.csv",
     "Notas/Bíblia/biblia_acf.csv",
-    "Notas/Bíblia/biblia_nvl.csv",
-    "Modelos/Sem título",
-    "Notas/Bíblia/1 Samuel",
-    "Notas/Estudos",
-    "Modelos"
+    "Notas/Bíblia/biblia_nvl.csv"
   ]
 }

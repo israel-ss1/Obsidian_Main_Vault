@@ -11,7 +11,7 @@
       "query": "path:Notas/Bíblia  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 13646137
       }
     },
     {
@@ -25,20 +25,27 @@
       "query": "path:Notas/Estudos  ",
       "color": {
         "a": 1,
-        "rgb": 5534232
+        "rgb": 389141
+      }
+    },
+    {
+      "query": "path:Notas/Sermão  ",
+      "color": {
+        "a": 1,
+        "rgb": 316155
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.916666666666667,
   "collapse-forces": true,
   "centerStrength": 0.5625,
   "repelStrength": 10.9375,
   "linkStrength": 0.557291666666667,
   "linkDistance": 287,
-  "scale": 0.13168724279835595,
+  "scale": 0.0939292790284726,
   "close": true
 }

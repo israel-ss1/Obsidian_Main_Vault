@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Apocalipse|Apocalipse]]"
-tags: [biblia]
+Livro: "[[Apocalipse|Apocalipse]]"
+tags:
+  - biblia
 ---
 
 # Apocalipse 2

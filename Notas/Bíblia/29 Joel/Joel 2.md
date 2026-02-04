@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Joel|Joel]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Joel|Joel]]"
+tags:
+  - biblia
 ---
 
 # Joel 2

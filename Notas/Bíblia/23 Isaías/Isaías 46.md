@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Isaías|Isaías]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Isaías|Isaías]]"
+tags:
+  - biblia
 ---
 
 # Isaías 46

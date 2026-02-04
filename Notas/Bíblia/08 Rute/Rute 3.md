@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Rute|Rute]]"
-tags: [biblia]
+Livro: "[[Rute|Rute]]"
+tags:
+  - biblia
 ---
 
 # Rute 3

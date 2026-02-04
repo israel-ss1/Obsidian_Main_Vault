@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Marcos|Marcos]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Marcos|Marcos]]"
+tags:
+  - biblia
 ---
 
 # Marcos 12

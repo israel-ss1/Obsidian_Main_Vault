@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Miquéias|Miquéias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Miquéias|Miquéias]]"
+tags:
+  - biblia
 ---
 
 # Miquéias 5

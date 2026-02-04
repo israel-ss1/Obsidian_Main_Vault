@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Gálatas|Gálatas]]"
-tags: [biblia]
+Livro: "[[Gálatas|Gálatas]]"
+tags:
+  - biblia
 ---
 
 # Gálatas 2

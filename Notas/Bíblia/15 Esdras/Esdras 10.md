@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Esdras|Esdras]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Esdras|Esdras]]"
+tags:
+  - biblia
 ---
 
 # Esdras 10

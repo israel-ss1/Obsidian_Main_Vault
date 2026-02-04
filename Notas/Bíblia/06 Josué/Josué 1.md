@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Josué|Josué]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Josué|Josué]]"
+tags:
+  - biblia
 ---
 
 # Josué 1

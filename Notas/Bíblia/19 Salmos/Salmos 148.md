@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Salmos|Salmos]]"
-tags: [biblia]
+Livro: "[[Salmos|Salmos]]"
+tags:
+  - biblia
 ---
 
 # Salmos 148

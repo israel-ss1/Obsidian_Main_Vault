@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 João|2 João]]"
-tags: [biblia]
+Livro: "[[2 João|2 João]]"
+tags:
+  - biblia
 ---
 
 # 2 João 1

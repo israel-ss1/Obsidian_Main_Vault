@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Ester|Ester]]"
-tags: [biblia]
+Livro: "[[Ester|Ester]]"
+tags:
+  - biblia
 ---
 
 # Ester 10

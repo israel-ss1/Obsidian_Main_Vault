@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Habacuque|Habacuque]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Habacuque|Habacuque]]"
+tags:
+  - biblia
 ---
 
 # Habacuque 2

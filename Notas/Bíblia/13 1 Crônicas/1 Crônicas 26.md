@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Crônicas|1 Crônicas]]"
-tags: [biblia]
+Livro: "[[1 Crônicas|1 Crônicas]]"
+tags:
+  - biblia
 ---
 
 # 1 Crônicas 26

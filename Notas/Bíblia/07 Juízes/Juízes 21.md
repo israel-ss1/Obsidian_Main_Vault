@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Juízes|Juízes]]"
-tags: [biblia]
+Livro: "[[Juízes|Juízes]]"
+tags:
+  - biblia
 ---
 
 # Juízes 21

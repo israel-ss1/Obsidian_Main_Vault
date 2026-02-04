@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Sofonias|Sofonias]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Sofonias|Sofonias]]"
+tags:
+  - biblia
 ---
 
 # Sofonias 1

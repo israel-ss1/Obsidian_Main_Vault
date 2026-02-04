@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Tito|Tito]]"
-tags: [biblia]
+Livro: "[[Tito|Tito]]"
+tags:
+  - biblia
 ---
 
 # Tito 3

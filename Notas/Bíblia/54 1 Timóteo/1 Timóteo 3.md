@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/1 Timóteo|1 Timóteo]]"
-tags: [biblia]
+Livro: "[[1 Timóteo|1 Timóteo]]"
+tags:
+  - biblia
 ---
 
 # 1 Timóteo 3

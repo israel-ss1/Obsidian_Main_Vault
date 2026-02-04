@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/3 João|3 João]]"
-tags: [biblia]
+Livro: "[[3 João|3 João]]"
+tags:
+  - biblia
 ---
 
 # 3 João 1

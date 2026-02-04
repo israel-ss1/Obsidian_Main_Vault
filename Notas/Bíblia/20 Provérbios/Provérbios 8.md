@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
-tags: [biblia]
+Livro: "[[Provérbios|Provérbios]]"
+tags:
+  - biblia
 ---
 
 # Provérbios 8
@@ -49,7 +50,7 @@ tags: [biblia]
 
 **22** O Senhor me possuiu no princípio de seus caminhos, desde então, e antes de suas obras. ^v22
 
-**23** Desde a eternidade fui ungida, desde o princípio, antes do começo da terra. ^v23
+**23** Desde a eternidade fui ungida, desde o [^1]princípio, antes do começo da terra. ^v23
 
 **24** Quando ainda não havia abismos, fui gerada, quando ainda não havia fontes carregadas de águas. ^v24
 
@@ -76,3 +77,5 @@ tags: [biblia]
 **35** Porque o que me achar, achará a vida, e alcançará o favor do Senhor. ^v35
 
 **36** Mas o que pecar contra mim violentará a sua própria alma; todos os que me odeiam amam a morte. ^v36
+
+[^1]: [[Gênesis 1#^v1|Gênesis 1:1]]

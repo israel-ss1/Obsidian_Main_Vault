@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Filemom|Filemom]]"
-tags: [biblia]
+Livro: "[[Filemom|Filemom]]"
+tags:
+  - biblia
 ---
 
 # Filemom 1

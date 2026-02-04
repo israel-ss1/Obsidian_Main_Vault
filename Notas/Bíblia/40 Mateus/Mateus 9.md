@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Mateus|Mateus]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Mateus|Mateus]]"
+tags:
+  - biblia
 ---
 
 # Mateus 9

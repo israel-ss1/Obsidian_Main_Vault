@@ -1,6 +1,6 @@
 #Conceito 
 
-Ser soberano, onisciente, onipresente, onipotente, atemporal, imaterial e não-dimensional que criou todas as coisas visíveis e invisíveis.
+Ser soberano, onisciente, onipresente, onipotente, atemporal, imaterial e não-dimensional que criou todas as coisas visíveis e invisíveis. Não pode ser chamado de criatura porque não foi criado. Não é uma força, é uma pessoa porque é dotado de consciência, vontade, inteligência e emoções.
 
 Deus criou a natureza, então ele não pode estar sujeito às leis naturais. Não estando sujeito a estas leis, não se pode prová-lo ou evidenciá-lo naturalmente, mas podemos concluí-lo logicamente através da [[Metafísica]].
 

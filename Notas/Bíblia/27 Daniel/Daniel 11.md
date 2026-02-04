@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Daniel|Daniel]]"
-tags: [biblia]
+Livro: "[[Fontes/Livros/Canon Bíblico/Daniel|Daniel]]"
+tags:
+  - biblia
 ---
 
 # Daniel 11

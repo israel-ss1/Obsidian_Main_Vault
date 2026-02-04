@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Coríntios|2 Coríntios]]"
-tags: [biblia]
+Livro: "[[2 Coríntios|2 Coríntios]]"
+tags:
+  - biblia
 ---
 
 # 2 Coríntios 2

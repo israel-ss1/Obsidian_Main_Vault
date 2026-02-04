@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/2 Crônicas|2 Crônicas]]"
-tags: [biblia]
+Livro: "[[2 Crônicas|2 Crônicas]]"
+tags:
+  - biblia
 ---
 
 # 2 Crônicas 20

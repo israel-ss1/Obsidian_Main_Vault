@@ -1,6 +1,7 @@
 ---
-Livro: "[[Fontes/Livros/Provérbios|Provérbios]]"
-tags: [biblia]
+Livro: "[[Provérbios|Provérbios]]"
+tags:
+  - biblia
 ---
 
 # Provérbios 16
