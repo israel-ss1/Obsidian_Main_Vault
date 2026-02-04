@@ -1,0 +1,30 @@
+---
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
+---
+
+# Salmos 5
+
+**1** DÁ ouvidos às minhas palavras, ó Senhor, atende à minha meditação. ^v1
+
+**2** Atende à voz do meu clamor, Rei meu e Deus meu, pois a ti orarei. ^v2
+
+**3** Pela manhã ouvirás a minha voz, ó Senhor; pela manhã apresentarei a ti a minha oração, e vigiarei. ^v3
+
+**4** Porque tu não és um Deus que tenha prazer na iniqüidade, nem contigo habitará o mal. ^v4
+
+**5** Os loucos não pararão à tua vista; odeias a todos os que praticam a maldade. ^v5
+
+**6** Destruirás aqueles que falam a mentira; o Senhor aborrecerá o homem sanguinário e fraudulento. ^v6
+
+**7** Porém eu entrarei em tua casa pela grandeza da tua benignidade; e em teu temor me inclinarei para o teu santo templo. ^v7
+
+**8** Senhor, guia-me na tua justiça, por causa dos meus inimigos; endireita diante de mim o teu caminho. ^v8
+
+**9** Porque não há retidão na boca deles; as suas entranhas são verdadeiras maldades, a sua garganta é um sepulcro aberto; lisonjeiam com a sua língua. ^v9
+
+**10** Declara-os culpados, ó Deus; caiam por seus próprios conselhos; lança-os fora por causa da multidão de suas transgressões, pois se rebelaram contra ti. ^v10
+
+**11** Porém alegrem-se todos os que confiam em ti; exultem eternamente, porquanto tu os defendes; e em ti se gloriem os que amam o teu nome. ^v11
+
+**12** Pois tu, Senhor, abençoarás ao justo; circundá-lo-ás da tua benevolência como de um escudo. ^v12

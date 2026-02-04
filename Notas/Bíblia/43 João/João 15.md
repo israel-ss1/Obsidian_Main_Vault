@@ -1,0 +1,60 @@
+---
+Livro: "[[Fontes/Livros/João|João]]"
+tags: [biblia]
+---
+
+# João 15
+
+**1** Eu sou a videira verdadeira, e meu Pai é o lavrador. ^v1
+
+**2** Toda a vara em mim, que não dá fruto, a tira; e limpa toda aquela que dá fruto, para que dê mais fruto. ^v2
+
+**3** Vós já estais limpos, pela palavra que vos tenho falado. ^v3
+
+**4** Estai em mim, e eu em vós; como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim. ^v4
+
+**5** Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer. ^v5
+
+**6** Se alguém não estiver em mim, será lançado fora, como a vara, e secará; e os colhem e lançam no fogo, e ardem. ^v6
+
+**7** Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito. ^v7
+
+**8** Nisto é glorificado meu Pai, que deis muito fruto; e assim sereis meus discípulos. ^v8
+
+**9** Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor. ^v9
+
+**10** Se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor. ^v10
+
+**11** Tenho-vos dito isto, para que o meu gozo permaneça em vós, e o vosso gozo seja completo. ^v11
+
+**12** O meu mandamento é este: Que vos ameis uns aos outros, assim como eu vos amei. ^v12
+
+**13** Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos. ^v13
+
+**14** Vós sereis meus amigos, se fizerdes o que eu vos mando. ^v14
+
+**15** Já vos não chamarei servos, porque o servo não sabe o que faz o seu senhor; mas tenho-vos chamado amigos, porque tudo quanto ouvi de meu Pai vos tenho feito conhecer. ^v15
+
+**16** Não me escolhestes vós a mim, mas eu vos escolhi a vós, e vos nomeei, para que vades e deis fruto, e o vosso fruto permaneça; a fim de que tudo quanto em meu nome pedirdes ao Pai ele vo-lo conceda. ^v16
+
+**17** Isto vos mando: Que vos ameis uns aos outros. ^v17
+
+**18** Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim. ^v18
+
+**19** Se vós fôsseis do mundo, o mundo amaria o que era seu, mas porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos odeia. ^v19
+
+**20** Lembrai-vos da palavra que vos disse: Não é o servo maior do que o seu senhor. Se a mim me perseguiram, também vos perseguirão a vós; se guardaram a minha palavra, também guardarão a vossa. ^v20
+
+**21** Mas tudo isto vos farão por causa do meu nome, porque não conhecem aquele que me enviou. ^v21
+
+**22** Se eu não viera, nem lhes houvera falado, não teriam pecado, mas agora não têm desculpa do seu pecado. ^v22
+
+**23** Aquele que me odeia, odeia também a meu Pai. ^v23
+
+**24** Se eu entre eles não fizesse tais obras, quais nenhum outro tem feito, não teriam pecado; mas agora, viram-nas e me odiaram a mim e a meu Pai. ^v24
+
+**25** Mas é para que se cumpra a palavra que está escrita na sua lei: Odiaram-me sem causa. ^v25
+
+**26** Mas, quando vier o Consolador, que eu da parte do Pai vos hei de enviar, aquele Espírito de verdade, que procede do Pai, ele testificará de mim. ^v26
+
+**27** E vós também testificareis, pois estivestes comigo desde o princípio. ^v27

@@ -1,0 +1,10 @@
+---
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
+---
+
+# Salmos 117
+
+**1** Louvai ao SENHOR todas as nações, louvai-o todos os povos. ^v1
+
+**2** Porque a sua benignidade é grande para conosco, e a verdade do Senhor dura para sempre. Louvai ao Senhor. ^v2

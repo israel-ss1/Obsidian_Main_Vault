@@ -1,0 +1,34 @@
+---
+Livro: "[[Fontes/Livros/Cânticos|Cânticos]]"
+tags: [biblia]
+---
+
+# Cânticos 8
+
+**1** Ah! quem me dera que foras como meu irmão, que mamou aos seios de minha mãe! Quando te encontrasse lá fora, beijar-te-ia, e não me desprezariam! ^v1
+
+**2** Levar-te-ia e te introduziria na casa de minha mãe, e tu me ensinarias; eu te daria a beber do vinho aromático e do mosto das minhas romãs. ^v2
+
+**3** A sua mão esquerda esteja debaixo da minha cabeça, e a sua direita me abrace. ^v3
+
+**4** Conjuro-vos, ó filhas de Jerusalém, que não acordeis nem desperteis o meu amor, até que queira. ^v4
+
+**5** Quem é esta que sobe do deserto, e vem encostada ao seu amado? Debaixo da macieira te despertei, ali esteve tua mãe com dores; ali esteve com dores aquela que te deu à luz. ^v5
+
+**6** Põe-me como selo sobre o teu coração, como selo sobre o teu braço, porque o amor é forte como a morte, e duro como a sepultura o ciúme; as suas brasas são brasas de fogo, com veementes labaredas. ^v6
+
+**7** As muitas águas não podem apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa pelo amor, certamente o desprezariam. ^v7
+
+**8** Temos uma irmã pequena, que ainda não tem seios; que faremos a esta nossa irmã, no dia em que dela se falar? ^v8
+
+**9** Se ela for um muro, edificaremos sobre ela um palácio de prata; e, se ela for uma porta, cercá-la-emos com tábuas de cedro. ^v9
+
+**10** Eu sou um muro, e os meus seios são como as suas torres; então eu era aos seus olhos como aquela que acha paz. ^v10
+
+**11** Teve Salomão uma vinha em Baal-Hamom; entregou-a a uns guardas; e cada um lhe trazia pelo seu fruto mil peças de prata. ^v11
+
+**12** A minha vinha, que me pertence, está diante de mim; as mil peças de prata são para ti, ó Salomão, e duzentas para os que guardam o seu fruto. ^v12
+
+**13** Ó tu, que habitas nos jardins, os companheiros estão atentos para ouvir a tua voz; faze-me, pois, também ouvi-la. ^v13
+
+**14** Vem depressa, amado meu, e faze-te semelhante ao gamo ou ao filho dos veados sobre os montes dos aromas. ^v14

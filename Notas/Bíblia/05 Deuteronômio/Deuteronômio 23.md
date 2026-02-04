@@ -1,0 +1,56 @@
+---
+Livro: "[[Fontes/Livros/Deuteronômio|Deuteronômio]]"
+tags: [biblia]
+---
+
+# Deuteronômio 23
+
+**1** Aquele a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do SENHOR. ^v1
+
+**2** Nenhum bastardo entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor. ^v2
+
+**3** Nenhum amonita nem moabita entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor eternamente. ^v3
+
+**4** Porquanto não saíram com pão e água, a receber-vos no caminho, quando saíeis do Egito; e porquanto alugaram contra ti a Balaão, filho de Beor, de Petor, de mesopotâmia, para te amaldiçoar. ^v4
+
+**5** Porém o Senhor teu Deus não quis ouvir Balaão; antes o Senhor teu Deus trocou em bênção a maldição; porquanto o Senhor teu Deus te amava. ^v5
+
+**6** Não lhes procurarás nem paz nem bem em todos os teus dias para sempre. ^v6
+
+**7** Não abominarás o edomeu, pois é teu irmão; nem abominarás o egípcio, pois estrangeiro foste na sua terra. ^v7
+
+**8** Os filhos que lhes nascerem na terceira geração, cada um deles entrará na congregação do Senhor. ^v8
+
+**9** Quando o exército sair contra os teus inimigos, então te guardarás de toda a coisa má. ^v9
+
+**10** Quando entre ti houver alguém que, por algum acidente noturno, não estiver limpo, sairá fora do arraial; não entrará no meio dele. ^v10
+
+**11** Porém será que, declinando a tarde, se lavará em água; e, em se pondo o sol, entrará no meio do arraial. ^v11
+
+**12** Também terás um lugar fora do arraial, para onde sairás. ^v12
+
+**13** E entre as tuas armas terás uma pá; e será que, quando estiveres assentado, fora, então com ela cavarás e, virando-te, cobrirás o que defecaste. ^v13
+
+**14** Porquanto o Senhor teu Deus anda no meio de teu arraial, para te livrar, e entregar a ti os teus inimigos; pelo que o teu arraial será santo, para que ele não veja coisa feia em ti, e se aparte de ti. ^v14
+
+**15** Não entregarás a seu senhor o servo que, tendo fugido dele, se acolher a ti; ^v15
+
+**16** Contigo ficará, no meio de ti, no lugar que escolher em alguma das tuas portas, onde lhe agradar; não o oprimirás. ^v16
+
+**17** Não haverá prostituta dentre as filhas de Israel; nem haverá sodomita dentre os filhos de Israel. ^v17
+
+**18** Não trarás o salário da prostituta nem preço de um sodomita à casa do Senhor teu Deus por qualquer voto; porque ambos são igualmente abominação ao Senhor teu Deus. ^v18
+
+**19** A teu irmão não emprestarás com juros, nem dinheiro, nem comida, nem qualquer coisa que se empreste com juros. ^v19
+
+**20** Ao estranho emprestarás com juros, porém a teu irmão não emprestarás com juros; para que o Senhor teu Deus te abençoe em tudo que puseres a tua mão, na terra a qual vais a possuir. ^v20
+
+**21** Quando fizeres algum voto ao Senhor teu Deus, não tardarás em cumpri-lo; porque o Senhor teu Deus certamente o requererá de ti, e em ti haverá pecado. ^v21
+
+**22** Porém, abstendo-te de votar, não haverá pecado em ti. ^v22
+
+**23** O que saiu dos teus lábios guardarás, e cumprirás, tal como voluntariamente votaste ao Senhor teu Deus, declarando-o pela tua boca. ^v23
+
+**24** Quando entrares na vinha do teu próximo, comerás uvas conforme ao teu desejo até te fartares, porém não as porás no teu cesto. ^v24
+
+**25** Quando entrares na seara do teu próximo, com a tua mão arrancarás as espigas; porém não porás a foice na seara do teu próximo. ^v25

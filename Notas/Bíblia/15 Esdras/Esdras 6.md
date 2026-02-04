@@ -1,0 +1,50 @@
+---
+Livro: "[[Fontes/Livros/Esdras|Esdras]]"
+tags: [biblia]
+---
+
+# Esdras 6
+
+**1** Então o rei Dario deu ordem, e buscaram nos arquivos, onde se guardavam os tesouros em babilônia. ^v1
+
+**2** E em Acmeta, no palácio, que está na província de Média, se achou um rolo, e nele estava escrito um memorial que dizia assim: ^v2
+
+**3** No primeiro ano do rei Ciro, este baixou o seguinte decreto: A casa de Deus, em Jerusalém, se reedificará para lugar em que se ofereçam sacrifícios, e seus fundamentos serão firmes; a sua altura de sessenta côvados, e a sua largura de sessenta côvados; ^v3
+
+**4** Com três carreiras de grandes pedras, e uma carreira de madeira nova; e a despesa se fará da casa do rei. ^v4
+
+**5** Além disso, os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor transportou do templo que estava em Jerusalém, e levou para babilônia, serão restituídos, para que voltem ao seu lugar, ao templo que está em Jerusalém, e serão postos na casa de Deus. ^v5
+
+**6** Agora, pois, Tatenai, governador dalém do rio, Setar-Bozenai, e os seus companheiros, os afarsaquitas, que habitais dalém do rio, apartai-vos dali. ^v6
+
+**7** Deixai que se faça a obra desta casa de Deus; que o governador dos judeus e os seus anciãos reedifiquem esta casa de Deus no seu lugar. ^v7
+
+**8** Também por mim se decreta o que haveis de fazer com os anciãos dos judeus, para a reedificação desta casa de Deus, a saber: que da fazenda do rei, dos tributos dalém do rio se pague prontamente a despesa a estes homens, para que não interrompam a obra. ^v8
+
+**9** E o que for necessário, como bezerros, carneiros, e cordeiros, para holocaustos ao Deus dos céus, trigo, sal, vinho e azeite, segundo o rito dos sacerdotes que estão em Jerusalém, dê-se-lhes, de dia em dia, para que não haja falta. ^v9
+
+**10** Para que ofereçam sacrifícios de cheiro suave ao Deus dos céus, e orem pela vida do rei e de seus filhos. ^v10
+
+**11** Também por mim se decreta que todo o homem que mudar este decreto, se arrancará um madeiro da sua casa, e, levantado, o pendurarão nele, e da sua casa se fará por isso um monturo. ^v11
+
+**12** O Deus, pois, que fez habitar ali o seu nome derrube a todos os reis e povos que estenderem a sua mão para mudar o decreto e para destruir esta casa de Deus, que está em Jerusalém. Eu, Dario, baixei o decreto; com diligência se faça. ^v12
+
+**13** Então Tatenai, o governador dalém do rio, Setar-Bozenai e os seus companheiros, assim fizeram diligentemente, conforme ao que decretara o rei Dario. ^v13
+
+**14** E os anciãos dos judeus iam edificando e prosperando pela profecia do profeta Ageu, e de Zacarias, filho de Ido. E edificaram e terminaram a obra conforme ao mandado do Deus de Israel, e conforme ao decreto de Ciro e Dario, e de Artaxerxes, rei da Pérsia. ^v14
+
+**15** E acabou-se esta casa no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario. ^v15
+
+**16** E os filhos de Israel, os sacerdotes, os levitas, e o restante dos filhos do cativeiro, fizeram a dedicação desta casa de Deus com alegria. ^v16
+
+**17** E ofereceram para a dedicação desta casa de Deus cem novilhos, duzentos carneiros, quatrocentos cordeiros, e doze cabritos por expiação do pecado de todo o Israel; segundo o número das tribos de Israel. ^v17
+
+**18** E puseram os sacerdotes nas suas turmas e os levitas nas suas divisões, para o ministério de Deus, em Jerusalém, conforme ao que está escrito no livro de Moisés. ^v18
+
+**19** E os filhos do cativeiro celebraram a páscoa no dia catorze do primeiro mês. ^v19
+
+**20** Porque os sacerdotes e levitas se purificaram como se fossem um só homem, todos estavam limpos; e mataram o cordeiro da páscoa para todos os filhos do cativeiro, e para seus irmãos, os sacerdotes, e para si mesmos. ^v20
+
+**21** Assim comeram a páscoa os filhos de Israel que tinham voltado do cativeiro, com todos os que com eles se apartaram da imundícia dos gentios da terra, para buscarem o Senhor Deus de Israel; ^v21
+
+**22** E celebraram a festa dos pães ázimos por sete dias com alegria; porque o Senhor os tinha alegrado, e tinha mudado o coração do rei da Assíria a favor deles, para lhes fortalecer as mãos na obra da casa de Deus, o Deus de Israel. ^v22

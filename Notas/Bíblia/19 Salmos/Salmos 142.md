@@ -1,0 +1,20 @@
+---
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
+---
+
+# Salmos 142
+
+**1** Com a minha voz clamei ao SENHOR; com a minha voz supliquei ao SENHOR. ^v1
+
+**2** Derramei a minha queixa perante a sua face; expus-lhe a minha angústia. ^v2
+
+**3** Quando o meu espírito estava angustiado em mim, então conheceste a minha vereda. No caminho em que eu andava, esconderam-me um laço. ^v3
+
+**4** Olhei para a minha direita, e vi; mas não havia quem me conhecesse. Refúgio me faltou; ninguém cuidou da minha alma. ^v4
+
+**5** A ti, ó Senhor, clamei; eu disse: Tu és o meu refúgio, e a minha porção na terra dos viventes. ^v5
+
+**6** Atende ao meu clamor; porque estou muito abatido. Livra-me dos meus perseguidores; porque são mais fortes do que eu. ^v6
+
+**7** Tira a minha alma da prisão, para que louve o teu nome; os justos me rodearão, pois me fizeste bem. ^v7

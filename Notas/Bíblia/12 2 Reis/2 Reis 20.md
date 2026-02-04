@@ -1,0 +1,48 @@
+---
+Livro: "[[Fontes/Livros/2 Reis|2 Reis]]"
+tags: [biblia]
+---
+
+# 2 Reis 20
+
+**1** Naqueles dias adoeceu Ezequias mortalmente; e o profeta Isaías, filho de Amós, veio a ele e lhe disse: Assim diz o SENHOR: Põe em ordem a tua casa, porque morrerás, e não viverás. ^v1
+
+**2** Então virou o rosto para a parede, e orou ao Senhor, dizendo: ^v2
+
+**3** Ah, Senhor! Suplico-te lembrar de que andei diante de ti em verdade, com o coração perfeito, e fiz o que era bom aos teus olhos. E chorou Ezequias muitíssimo. ^v3
+
+**4** Sucedeu, pois, que, não havendo Isaías ainda saído do meio do pátio, veio a ele a palavra do Senhor dizendo: ^v4
+
+**5** Volta, e dize a Ezequias, capitão do meu povo: Assim diz o Senhor, o Deus de Davi, teu pai: Ouvi a tua oração, e vi as tuas lágrimas; eis que eu te sararei; ao terceiro dia subirás à casa do Senhor. ^v5
+
+**6** E acrescentarei aos teus dias quinze anos, e das mãos do rei da Assíria te livrarei, a ti e a esta cidade; e ampararei esta cidade por amor de mim, e por amor de Davi, meu servo. ^v6
+
+**7** Disse mais Isaías: Tomai uma pasta de figos. E a tomaram, e a puseram sobre a chaga; e ele sarou. ^v7
+
+**8** E Ezequias disse a Isaías: Qual é o sinal de que o Senhor me sarará, e de que ao terceiro dia subirei à casa do Senhor? ^v8
+
+**9** Disse Isaías: Isto te será sinal, da parte do Senhor, de que o Senhor cumprirá a palavra que disse: Adiantar-se-á a sombra dez graus, ou voltará dez graus atrás? ^v9
+
+**10** Então disse Ezequias: É fácil que a sombra decline dez graus; não seja assim, mas volte a sombra dez graus atrás. ^v10
+
+**11** Então o profeta Isaías clamou ao Senhor; e fez voltar a sombra dez graus atrás, pelos graus que tinha declinado no relógio de sol de Acaz. ^v11
+
+**12** Naquele tempo enviou Berodaque-Baladã, filho de Baladã, rei de babilônia, cartas e um presente a Ezequias; porque ouvira que Ezequias tinha estado doente. ^v12
+
+**13** E Ezequias lhes deu ouvidos; e lhes mostrou toda a casa de seu tesouro, a prata, o ouro, as especiarias e os melhores ungüentos, e a sua casa de armas, e tudo quanto se achou nos seus tesouros; coisa nenhuma houve que não lhes mostrasse, nem em sua casa, nem em todo o seu domínio. ^v13
+
+**14** Então o profeta Isaías veio ao rei Ezequias, e lhe disse: Que disseram aqueles homens, e de onde vieram a ti? Disse Ezequias: Vieram de um país muito remoto, de babilônia. ^v14
+
+**15** E disse ele: Que viram em tua casa? E disse Ezequias: Tudo quanto há em minha casa viram; coisa nenhuma há nos meus tesouros que eu não lhes mostrasse. ^v15
+
+**16** Então disse Isaías a Ezequias: Ouve a palavra do Senhor. ^v16
+
+**17** Eis que vêm dias em que tudo quanto houver em tua casa, e o que entesouraram teus pais até ao dia de hoje, será levado a babilônia; não ficará coisa alguma, disse o SENHOR. ^v17
+
+**18** E ainda até de teus filhos, que procederem de ti, e que tu gerares, tomarão, para que sejam eunucos no paço do rei da babilônia. ^v18
+
+**19** Então disse Ezequias a Isaías: Boa é a palavra do Senhor que disseste. Disse mais: E não haverá, pois, em meus dias paz e verdade? ^v19
+
+**20** Ora, o mais dos atos de Ezequias, e todo o seu poder, e como fez a piscina e o aqueduto, e como fez vir a água à cidade, porventura não está escrito no livro das crônicas dos reis de Judá? ^v20
+
+**21** E Ezequias dormiu com seus pais; e Manassés, seu filho, reinou em seu lugar. ^v21

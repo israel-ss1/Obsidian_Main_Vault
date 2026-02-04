@@ -1,0 +1,24 @@
+---
+Livro: "[[Fontes/Livros/Salmos|Salmos]]"
+tags: [biblia]
+---
+
+# Salmos 113
+
+**1** Louvai ao SENHOR. Louvai, servos do SENHOR, louvai o nome do SENHOR. ^v1
+
+**2** Seja bendito o nome do Senhor, desde agora para sempre. ^v2
+
+**3** Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor. ^v3
+
+**4** Exaltado está o Senhor acima de todas as nações, e a sua glória sobre os céus. ^v4
+
+**5** Quem é como o Senhor nosso Deus, que habita nas alturas? ^v5
+
+**6** O qual se inclina, para ver o que está nos céus e na terra! ^v6
+
+**7** Levanta o pobre do pó e do monturo levanta o necessitado, ^v7
+
+**8** Para o fazer assentar com os príncipes, mesmo com os príncipes do seu povo. ^v8
+
+**9** Faz com que a mulher estéril habite em casa, e seja alegre mãe de filhos. Louvai ao Senhor. ^v9

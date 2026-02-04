@@ -1,0 +1,32 @@
+---
+Livro: "[[Fontes/Livros/Zacarias|Zacarias]]"
+tags: [biblia]
+---
+
+# Zacarias 2
+
+**1** Tornei a levantar os meus olhos, e vi, e eis um homem que tinha na mão um cordel de medir. ^v1
+
+**2** E eu disse: Para onde vais tu? E ele me disse: Vou medir Jerusalém, para ver qual é a sua largura e qual o seu comprimento. ^v2
+
+**3** E eis que saiu o anjo que falava comigo, e outro anjo lhe saiu ao encontro. ^v3
+
+**4** E disse-lhe: Corre, fala a este jovem, dizendo: Jerusalém será habitada como as aldeias sem muros, por causa da multidão dos homens e dos animais que haverá nela. ^v4
+
+**5** Pois eu, diz o Senhor, serei para ela um muro de fogo em redor, e para glória estarei no meio dela. ^v5
+
+**6** Ah, ah! Fugi agora da terra do norte, diz o Senhor, porque vos espalhei pelos quatro ventos do céu, diz o Senhor. ^v6
+
+**7** Ah! Sião! Escapa, tu, que habitas com a filha de babilônia. ^v7
+
+**8** Porque assim diz o Senhor dos Exércitos: Depois da glória ele me enviou às nações que vos despojaram; porque aquele que tocar em vós toca na menina do seu olho. ^v8
+
+**9** Porque eis aí levantarei a minha mão sobre eles, e eles virão a ser a presa daqueles que os serviram; assim sabereis vós que o Senhor dos Exércitos me enviou. ^v9
+
+**10** Exulta, e alegra-te ó filha de Sião, porque eis que venho, e habitarei no meio de ti, diz o Senhor. ^v10
+
+**11** E naquele dia muitas nações se ajuntarão ao Senhor, e serão o meu povo, e habitarei no meio de ti e saberás que o Senhor dos Exércitos me enviou a ti. ^v11
+
+**12** Então o Senhor herdará a Judá como sua porção na terra santa, e ainda escolherá a Jerusalém. ^v12
+
+**13** Cala-te, toda a carne, diante do Senhor, porque ele se levantou da sua santa morada. ^v13
