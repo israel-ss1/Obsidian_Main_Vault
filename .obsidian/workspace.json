@@ -21,19 +21,8 @@
               "title": "Gênesis 1"
             },
             "group": "6c8ad4b8d531582e"
-          },
-          {
-            "id": "52d115d7473cf930",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "654eab55af3fad52",
@@ -267,8 +256,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "52d115d7473cf930",
+  "active": "14fcfa8fcba2cad7",
   "lastOpenFiles": [
+    "README.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
     "Notas/Bíblia/20 Provérbios/Provérbios 8.md",
     "Notas/Bíblia/Gênesis/Gênesis 1.md",
@@ -295,7 +285,6 @@
     "Notas/Sermão/02 - Viva com Deus.md",
     "Mateus 14 1.md",
     "Mateus 15 1.md",
-    "Notas/Bíblia/60 1 Pedro/1 Pedro 5.md",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",
     "Fontes/Livros/Canon Bíblico",
