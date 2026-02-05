@@ -6,7 +6,6 @@ Autor: Israel Silva de Souza
 ---
 ---
 **Texto base:** 
-
 ## Introdução
 
 **Um comportamento intrigante.**  

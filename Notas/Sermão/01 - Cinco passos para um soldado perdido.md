@@ -5,12 +5,10 @@ Data Criação:
 Autor: Israel Silva de Souza
 ---
 ---
-
 **Texto base:** [[Mateus 18#^v11|Mateus 18.11]]
 ## Introdução
 
-Um soldado paraquedista salta de um avião abatido e aterra numa área desconhecida. Perdido, o que faz?  
-Um crente tem uma grande perda num momento desfavorável. Perdido, o que ele faz?  
+Um soldado paraquedista salta de um avião abatido e aterra numa área desconhecida. Perdido, o que faz? Um crente tem uma grande perda num momento desfavorável. Perdido, o que ele faz?  
 Eu já fui soldado e sei o que soldado faz e vamos fazer uma aplicação para nossa vida espiritual. É uma analogia conhecida, já se pregava sobre isso quando eu tinha 7 anos.  
    
 ESAON  
@@ -28,7 +26,7 @@ Um local seguro,
 Um local confortável,  
 Como estacionar o carro ...  Como o soldado estaciona ...  
 
-Analise o que você tem consigo e ao seu redor. Não despreze o que pode ser revertido em benefício. Não olhe para o que você não tem, lhe para o que você tem.  
+Analise o que você tem consigo e ao seu redor. Não despreze o que pode ser revertido em benefício. Não olhe para o que você não tem, olhe para o que você tem.  
 	- Seja grato  ...  1\.     Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco. [[1 Tessalonicenses 5#^v18|1 Tessalonicenses 5.18]] 
 	- Busque um abrigo  ... Deus é o meu rochedo, nele confiarei; o meu escudo, e a força da minha salvação, o meu alto retiro, e o meu abrigo. Ó meu Salvador, da violência me salvas. [[2 Samuel 22#^v3|2 Samuel 22.3]] (cântico de Davi nos dias em que foi livrado de Saul)  
 	- Busque alimento  ... 3 Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo. [[João 6#^v51|João 6.51]]

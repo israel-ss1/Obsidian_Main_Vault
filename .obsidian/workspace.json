@@ -4,60 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "54f9efb757884f7d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14fcfa8fcba2cad7",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            },
-            "group": "6c8ad4b8d531582e"
-          },
-          {
-            "id": "42ec9548874d41fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Bíblia/28 Oséias/Oséias 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oséias 13"
-            }
-          },
-          {
-            "id": "51f55ffd2e437995",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "654eab55af3fad52",
         "type": "tabs",
         "children": [
           {
-            "id": "0f9fbcaf9b1aaad9",
+            "id": "c12e9459a0ac03e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Estudos/Adoração.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adoração"
+            },
+            "group": "53d0e60182bc4409"
+          }
+        ]
+      },
+      {
+        "id": "173f3d23ae4e83bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8649ed751345c627",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Sermão/15 - A Tentação de Jesus 2.md",
+                "file": "Notas/Estudos/Adoração.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -67,36 +46,7 @@
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Notas/Bíblia  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:Fontes  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 15922718
-                      }
-                    },
-                    {
-                      "query": "path:Notas/Sermão  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 324077
-                      }
-                    },
-                    {
-                      "query": "path:Notas/Estudos  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6084188
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -107,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000018,
-                  "close": true
+                  "scale": 1.4019828977761017,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 15 - A Tentação de Jesus 2"
+              "title": "Gráfico de Adoração"
             },
-            "group": "6c8ad4b8d531582e"
+            "group": "53d0e60182bc4409"
           }
         ]
       }
@@ -277,9 +227,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "51f55ffd2e437995",
+  "active": "c12e9459a0ac03e0",
   "lastOpenFiles": [
+    "Notas/Bíblia/01 Gênesis/Gênesis 22.md",
+    "Notas/Estudos/Adoração.md",
+    "Notas/Estudos/A Tentação de Jesus.md",
     "Notas/Bíblia/28 Oséias/Oséias 13.md",
+    "Notas/Sermão/02 - Viva com Deus.md",
+    "Notas/Sermão/01 - Cinco passos para um soldado perdido.md",
     "Notas/Sermão/15 - A Tentação de Jesus 2.md",
     "Notas/Sermão/14 - A Tentação de Jesus 1.md",
     "Notas/Sermão/13 - Dois perfís de pais.md",
@@ -294,17 +249,12 @@
     "Notas/Sermão/05 - A armadura de Deus.md",
     "Notas/Sermão/04 - O andar do crente.md",
     "Notas/Sermão/03 - Decisões e consequências.md",
-    "Notas/Sermão/02 - Viva com Deus.md",
-    "Notas/Sermão/01 - Cinco passos para um soldado perdido.md",
     "Notas/Sermão/16 - Adoração.md",
     "Modelos/05 - Comparador de versões.md",
     "Modelos/04 - Referência Cruzada.md",
     "Modelos/03 - Abreviações.md",
     "Modelos/02 - Bloco de Versículos.md",
     "Modelos/01 - Referência Bíblica.md",
-    "Gênesis 18 1.md",
-    "Notas/Sermão/17 - Perdão.md",
-    "Modelos/Criador Notas Bíblicas.md",
     "Notas/Bíblia/Oseias",
     "Notas/Bíblia/Gênesis",
     "Notas/Sermão",
