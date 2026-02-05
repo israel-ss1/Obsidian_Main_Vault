@@ -14,7 +14,7 @@ const livros = [
     { a: "1rs", n: "1 Reis" }, { a: "2rs", n: "2 Reis" }, { a: "1cr", n: "1 Crônicas" }, { a: "2cr", n: "2 Crônicas" }, { a: "ed", n: "Esdras" },
     { a: "ne", n: "Neemias" }, { a: "et", n: "Ester" }, { a: "jó", n: "Jó" }, { a: "sl", n: "Salmos" }, { a: "pv", n: "Provérbios" },
     { a: "ec", n: "Eclesiastes" }, { a: "ct", n: "Cânticos" }, { a: "is", n: "Isaías" }, { a: "jr", n: "Jeremias" }, { a: "lm", n: "Lamentações" },
-    { a: "ez", n: "Ezequiel" }, { a: "dn", n: "Daniel" }, { a: "os", n: "Oseias" }, { a: "jl", n: "Joel" }, { a: "am", n: "Amós" },
+    { a: "ez", n: "Ezequiel" }, { a: "dn", n: "Daniel" }, { a: "os", n: "Oséias" }, { a: "jl", n: "Joel" }, { a: "am", n: "Amós" },
     { a: "ob", n: "Obadias" }, { a: "jn", n: "Jonas" }, { a: "mq", n: "Miqueias" }, { a: "na", n: "Naum" }, { a: "hc", n: "Habacuque" },
     { a: "sf", n: "Sofonias" }, { a: "ag", n: "Ageu" }, { a: "zc", n: "Zacarias" }, { a: "ml", n: "Malaquias" },
     { a: "mt", n: "Mateus" }, { a: "mc", n: "Marcos" }, { a: "lc", n: "Lucas" }, { a: "jo", n: "João" }, { a: "at", n: "Atos" },

@@ -11,18 +11,39 @@
             "id": "14fcfa8fcba2cad7",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            },
+            "group": "6c8ad4b8d531582e"
+          },
+          {
+            "id": "42ec9548874d41fa",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
-                "mode": "preview",
+                "file": "Notas/Bíblia/28 Oséias/Oséias 13.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gênesis 1"
-            },
-            "group": "6c8ad4b8d531582e"
+              "title": "Oséias 13"
+            }
+          },
+          {
+            "id": "51f55ffd2e437995",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "654eab55af3fad52",
@@ -34,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
+                "file": "Notas/Sermão/15 - A Tentação de Jesus 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -91,7 +112,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gênesis 1"
+              "title": "Gráfico de 15 - A Tentação de Jesus 2"
             },
             "group": "6c8ad4b8d531582e"
           }
@@ -256,41 +277,41 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "14fcfa8fcba2cad7",
+  "active": "51f55ffd2e437995",
   "lastOpenFiles": [
-    "README.md",
-    "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
-    "Notas/Bíblia/20 Provérbios/Provérbios 8.md",
-    "Notas/Bíblia/Gênesis/Gênesis 1.md",
-    "Notas/Sermão/16 - Adoração.md",
-    "Notas/Sermão/14 - A Tentação de Jesus 1.md",
+    "Notas/Bíblia/28 Oséias/Oséias 13.md",
     "Notas/Sermão/15 - A Tentação de Jesus 2.md",
-    "Notas/Sermão/17 - Perdão.md",
+    "Notas/Sermão/14 - A Tentação de Jesus 1.md",
+    "Notas/Sermão/13 - Dois perfís de pais.md",
     "Notas/Sermão/12 - Relacionamento com Jesus.md",
-    "Fontes/Biografias/Autores Bíblicos/Ageu.md",
+    "Notas/Bíblia/43 João/João 1.md",
     "Notas/Sermão/11 - Relacionamento com Deus.md",
-    "Notas/Bíblia/Oseias/Oseias 6.md",
     "Notas/Sermão/10 - Um chamado para edificar.md",
     "Notas/Sermão/09 - Dissenções na igreja.md",
     "Notas/Sermão/08 - A atualidade dos dons espirituais (doutrina).md",
     "Notas/Sermão/07 - O exemplo da vida de José.md",
     "Notas/Sermão/06 - Salmo 3.md",
-    "Notas/Bíblia/Oseias/Oseias 13.md",
-    "Notas/Bíblia/Oseias",
     "Notas/Sermão/05 - A armadura de Deus.md",
-    "Notas/Bíblia/Mateus/Mateus 4.md",
     "Notas/Sermão/04 - O andar do crente.md",
-    "1 Pedro 5 1.md",
     "Notas/Sermão/03 - Decisões e consequências.md",
     "Notas/Sermão/02 - Viva com Deus.md",
-    "Mateus 14 1.md",
-    "Mateus 15 1.md",
+    "Notas/Sermão/01 - Cinco passos para um soldado perdido.md",
+    "Notas/Sermão/16 - Adoração.md",
+    "Modelos/05 - Comparador de versões.md",
+    "Modelos/04 - Referência Cruzada.md",
+    "Modelos/03 - Abreviações.md",
+    "Modelos/02 - Bloco de Versículos.md",
+    "Modelos/01 - Referência Bíblica.md",
+    "Gênesis 18 1.md",
+    "Notas/Sermão/17 - Perdão.md",
+    "Modelos/Criador Notas Bíblicas.md",
+    "Notas/Bíblia/Oseias",
+    "Notas/Bíblia/Gênesis",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",
     "Fontes/Livros/Canon Bíblico",
     "Notas/Bíblia/Mateus",
     "Notas/Bíblia/Deuteronômio",
-    "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/biblia_nva.csv",
     "Notas/Bíblia/biblia_acf.csv",
     "Notas/Bíblia/biblia_nvl.csv"

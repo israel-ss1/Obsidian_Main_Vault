@@ -57,7 +57,7 @@ O pastor Antônio Gilberto, em seus estudos sobre a EBD, cita sete relações do
    * *Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não vêem. [[Hebreus 11#^v1|Hebreus 11.1]]
    * Pela fé Abraão, sendo chamado, obedeceu, indo para um lugar que havia de receber por herança; e saiu, sem saber para onde ia. [[Hebreus 11#^v8|Hebreus 11.8]]
    * querendo o aperfeiçoamento dos santos, para a obra do ministério, para edificação do corpo de Cristo, até que todos cheguemos à unidade da fé e ao conhecimento do Filho de Deus, a varão perfeito, à medida da estatura completa de Cristo [[Efésios 4#^v12|Efésios 4.12-13]]
-   * Então conheçamos, e prossigamos em conhecer ao Senhor. [[Oseias 6#^v3|Oseias 6.3]]
+   * Então conheçamos, e prossigamos em conhecer ao Senhor. [[Oséias 6#^v3|Oséias 6.3]]
 1. Serviço: o que você, mortal, poderia fazer por Deus, que ele mesmo não possa fazer?
 
 *Mestre, que farei para herdar a vida eterna*? [[Lucas 10#^v25|Lucas 10.25]] Herdar a vida eterna significa conhecer a Deus

@@ -53,7 +53,7 @@ Crie hábitos onde Deus é o centro. Aprenda a viver com Deus.
 ## Conclusão
 
 **Não retarde as coisas\!**  
-**Para as coisas espirituais, é Deus quem escolhe**. -  *[[1 Pedro 5 1#^v16|1 Pedro 5.16]] Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte;*
+**Para as coisas espirituais, é Deus quem escolhe**. 
 
 > [!Bible] 1 Pedro 5:6
 > ![[1 Pedro 5#^v6]]

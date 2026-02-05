@@ -50,7 +50,8 @@ Doar é entregar, transferir ou dar algo sem receber nada em troca. Se você rec
 
 Aqui aprendemos que perdão envolve preço, prejuízo, valor.
 
-E [[Mateus 18 1|Mateus 18]], Jesus fala sobre perdão e usa a parábola do credor incompassivo onde podemos observar várias destas características. 
+E 
+[[Mateus 18|Mateus 18]], Jesus fala sobre perdão e usa a parábola do credor incompassivo onde podemos observar várias destas características. 
 - Existem dívidas e dívidas impagáveis;
 - É possível recebera graça de Deus em vão. Em [[2 Coríntios 6#^v1|2 Coríntios 6.1]], vemos Paulo falando a respeito de não dar escândalo para que nosso ministério seja censurado e fazendo vã a graça de Deus.
 - É mais fácil olhar para as pequenas ofensas feita a nós do que as nossas grandes ofensas feitas a Deus;
@@ -97,9 +98,8 @@ Este versículo deixa explícito o conceito teológico de "remir": existe um pre
 ### 5. Oséias 13:14
 
 Uma profecia poderosa sobre a vitória de Deus sobre a própria morte e o inferno (Seol).
-
-> [!Bible] Oseias 13:14
-> ![[Oseias 13 1#^v14]]
+> [!Bible] Oséias 13:14
+> ![[Oséias 13#^v14]]
 
 Ao orar isso, o cristão está essencialmente dizendo: **"Senhor, use a minha misericórdia para com os outros como a régua para medir a Tua misericórdia para comigo."** Se pararmos para pensar, é uma oração perigosíssima para quem guarda rancor.
 

@@ -81,7 +81,7 @@ Profecia fala de futuro. Embora o salmo fale da confiança e fé que Davi sente 
 
 1. Eu sou o Senhor e fora de mim não há salvador  [[Isaías 43#^v11|Isaías 43.11]]
 2. no Senhor nosso Deus, está a salvação  [[Jeremias 3#^v23|Jeremias 3.23]]
-3. Não há salvador senão eu.  [[Oseias 13#^v4|Oseias 13.4]]
+3. Não há salvador senão eu. [[Oséias 13#^v4|Oséias 13.4]]
 
 ***Crê no Senhor Jesus Cristo e serás salvo tu e tua casa. At***
 

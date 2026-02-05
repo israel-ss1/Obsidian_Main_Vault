@@ -6,8 +6,7 @@ Autor: Israel Silva de Souza
 ---
 ---
 
-**Texto base:** [[Mateus 4 1#^v1|Mateus 4.1-4]]
-
+**Texto base:** [[Mateus 4#^v1|Mateus 4.1]]
 ## Introdução
 
 Faz parte do estudo [[A Tentação de Jesus]]
@@ -16,7 +15,7 @@ Primeira tentação
 
 **Porque Jesus foi conduzido ao deserto para ser tentado e provado?**  
 	A resposta para esta pergunta é que foi uma referência a passagem do povo hebreu pelo deserto após a saída do Egito. O povo de Israel passou 40 anos no deserto e Jesus ficou 40 dias, mas comparações não param por aí.  
-	Após Jesus ser batizado, ele foi conduzido para o deserto para ser tentado. O texto pode ser visto em [[Mateus 4 1#^v1|Mateus 4.1-11]], [[Marcos 1#^v12|Marcos 1.12-13]] e [[Lucas 4#^v1|Lucas 4.1-13]]. Interessante que no texto de Marcos, vemos Jesus inserido em duas dimensões: dimensão natural, vivendo entre os animais selvagens e com os anjos que o serviam.  
+	Após Jesus ser batizado, ele foi conduzido para o deserto para ser tentado. O texto pode ser visto em [[Mateus 4#^v1|Mateus 4.1]], [[Marcos 1#^v12|Marcos 1.12-13]] e [[Lucas 4#^v1|Lucas 4.1-13]]. Interessante que no texto de Marcos, vemos Jesus inserido em duas dimensões: dimensão natural, vivendo entre os animais selvagens e com os anjos que o serviam.  
 	Podemos fazer uma comparação com o povo de Israel que, após passar pelo mar vermelho, entrou no deserto, onde também experimentou essas duas dimensões, a natural quando esteve nas dificuldades do deserto e a dimensão espiritual, quando experimentava a nuvem e a coluna de fogo que estava entre eles. [[Êxodo 13#^v21|Êxodo 13.21-22]]
 	Outra semelhança que podemos observar é que Jesus foi para o deserto logo após ser batizado, ter passado pelas águas. O povo passou da mesma forma pelas águas do mar vermelho, simbolizando um batismo nas águas, ou seja, saindo da escravidão e deixando as coisas antigas para trás. Isso não é uma ideia minha mas do apóstolo Paulo em [[1 Coríntios 10#^v1|1 Coríntios 10.1-4]], vamos ler esse texto.  
 	Vemos no texto de Coríntios essa referência de batismo nas águas e de provação, onde o povo fracassou. Jesus na sua forma como homem, foi conduzido ao deserto para provar que o homem consegue resistir ao diabo.   

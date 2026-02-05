@@ -11,7 +11,7 @@ const nomesLivros = {
     "ed": "Esdras", "ne": "Neemias", "et": "Ester", "jó": "Jó", "sl": "Salmos",
     "pv": "Provérbios", "ec": "Eclesiastes", "ct": "Cânticos", "is": "Isaías",
     "jr": "Jeremias", "lm": "Lamentações", "ez": "Ezequiel", "dn": "Daniel",
-    "os": "Oseias", "jl": "Joel", "am": "Amós", "ob": "Obadias", "jn": "Jonas",
+    "os": "Oséias", "jl": "Joel", "am": "Amós", "ob": "Obadias", "jn": "Jonas",
     "mq": "Miqueias", "na": "Naum", "hc": "Habacuque", "sf": "Sofonias",
     "ag": "Ageu", "zc": "Zacarias", "ml": "Malaquias",
     "mt": "Mateus", "mc": "Marcos", "lc": "Lucas", "joao": "João", "jo": "João", "at": "Atos",

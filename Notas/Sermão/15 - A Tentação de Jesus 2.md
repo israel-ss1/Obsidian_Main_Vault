@@ -6,7 +6,7 @@ Autor: Israel Silva de Souza
 ---
 ---
 
-**Texto base:** [[Mateus 4 1#^v1|Mateus 4.1-4]]
+**Texto base:** [[Mateus 4#^v1|Mateus 4.1-4]]
 
 ## Introdução
 
@@ -14,7 +14,7 @@ Faz parte do estudo [[A Tentação de Jesus]]
 Continuação do sermão [[14 - A Tentação de Jesus 1]]
 Segunda tentação
 
-[[Mateus 4 1#^v5|Mateus 4.5-7]]
+[[Mateus 4#^v5|Mateus 4.5-7]]
 O diabo leva Jesus até o alto do templo e o instiga a pular e cita o [[Salmos 91|Salmos 91]]. Existe um significado muito grande na exposição deste salmo para Jesus. No entendimento popular, o salmo 91 é um salmo de proteção, principalmente por causa do versículo 1, que pode ser relacionado ao evento da morte dos primogênitos no Egito em [[Êxodo 12#^v13|Êxodo 12.13]].
 Entre os acadêmicos ele é visto como sendo um salmo messiânico. 
 
@@ -53,7 +53,7 @@ Tentar a Deus é um pecado de rebelião, porque a pessoa faz oposição a sua au
 Muitas pessoas caem nesse erro de impor condições a Deus. Se Deus não curar, se Deus é Deus ele fará, Deus vai agir porque eu preciso. Isso é tentar Deus.
 
 Em [[1 Samuel 15#^v23|1 Samuel 15.23]] Samuel fala para Saul “Porque a rebelião *é como* o pecado de feitiçaria, e o porfiar *é como* iniquidade e idolatria. Porquanto tu rejeitaste a palavra do Senhor, ele também te rejeitou a ti, para que não *sejas rei.*”. Observamos que Saul apresentou “bons argumentos”, poupou os bois para sacrificar. Abandonou a ordem de Deus e foi dado como rebelde.  
-Causa, rebelião, consequência, decisões inapropriadas, desvia as pessoas do propósito. Além disso, você arrasta as pessoas a agirem da forma errada junto com você. Se Jesus pudesse pular, todo o povo padeceria. No caso do deserto em Massá, quem se prejudicou foi Moisés que acabou batendo na rocha e não entrou na terra prometida. [[Números 20 1#^v1|Números 20.1-13]].  
+Causa, rebelião, consequência, decisões inapropriadas, desvia as pessoas do propósito. Além disso, você arrasta as pessoas a agirem da forma errada junto com você. Se Jesus pudesse pular, todo o povo padeceria. No caso do deserto em Massá, quem se prejudicou foi Moisés que acabou batendo na rocha e não entrou na terra prometida. [[Números 20#^v1|Números 20.1-13]]
 	O diabo queria atingir a lealdade de Jesus e através disso desvirtuar o plano de Deus para a salvação do homem. Um pecado que ele mesmo caiu no princípio, pois desvirtuou um terço dos seres celestiais.
 
 ## Conclusão
