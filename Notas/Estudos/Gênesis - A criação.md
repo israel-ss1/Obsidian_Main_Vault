@@ -133,14 +133,51 @@ No aparecimento dos continentes, poderíamos pensar que ao invés das águas ter
 Aqui, volta-se a dizer que Deus viu que era bom, ou seja, Deus ficou satisfeito com o resultado do que foi feito antes mesmo de terminar o terceiro dia.
 
 
+----
+## Digitalização de notas anuais
 
-#### v.11 
+### Notas de Estudo: Gênesis e a Criação
+
+No cenário de um observador que vê, ele também escuta. Nesse caso, quando Deus disse, vimos que (Ele) ouviu a ordem de Deus no _haja_, e no _ajuntem-se_.
+
+#### V. 11
+
+Disse Deus, **produza**. Aqui temos um outro verbo imperativo que não pode ser interpretado como criação indireta. O primeiro verbo da criação é o _criou_ (Barah); Ele criou, primeira pessoa do singular. O segundo é um verbo imperativo: _haja_. Ele determina e acontece. Entendemos que Ele criou desta forma; porém não é o mesmo que o verbo _Barah_.
+
+O segundo verbo aparece aqui, **produza**, também um imperativo que entendemos que é executado por força da sua vontade, uma vez que não há mais ninguém com poder parecido para tal ordem que faça por Ele.
+
+Na mesma linha de raciocínio é da expansão, _produza erva_ foi uma atividade em uma matéria já criada. A terra já estava criada e estava oculta. Apareceu da Terra: Tudo que precisava para a erva já estava na terra. Todos os elementos já estavam aqui.
+
+Nos versos vemos algumas citações distintas: erva, semente, e árvore frutífera com suas sementes. Apareceram plantas frutíferas e não frutíferas e cada uma delas havia sementes. Isso demonstra o planejamento da continuidade. Se havia semente, haveria plantação de outras plantas.
+
+Se Deus criar tudo foi plantado, porquê teria mais sementes? Neste caso eu penso na possibilidade das plantas morrerem. Hoje, encaramos as plantas como seres vivos por classificação da ciência. Biblicamente, isso é correto?
+
+Ainda podemos observar que Deus criou as plantas segundo suas espécies. Não houve uma evolução de plantas. Todas foram feitas de uma só vez.
+
+#### V. 12
+
+A Terra produziu a erva com a semente. Interessante o texto apontar que a árvore frutífera dá fruto e a semente está nela. Sempre entendemos que o fruto é um produto útil, com um fim a ser destinado. Além da sua recompensa há o potencial da continuidade. No fim desta etapa, reforça novamente que Deus viu que era bom. Foi um dia com duas etapas; a aparição da terra e da erva e plantas.
+
+#### V. 13
+
+Foi tarde e manhã, o terceiro dia. Vemos aqui uma estrutura de paralelismo. O texto diz o que Deus determina e no texto seguinte relata o cumprimento.
+
+#### V. 14
+
+**Haja luminares** na expansão dos céus. Hoje sabemos que se tratavam de estrelas. Cabe aqui julgar se Deus tratara de todas as estrelas ou somente das principais. O propósito era haver separação entre os dias e os anos. Aqui começa a contagem do tempo natural.
+
+Uma linha de pensamento é muito comum: Deus criar todo o universo e tratar da formação da terra em sete dias. Os luminares já existiam mas foram revelados, no quarto dia. Assim, o _haja_ não exatamente criou as coisas, somente as organizou, transformou; foram criadas a partir do que já existia.
+
+Deus também determinou que estes fossem para sinais. Com isso, entendo que eclipses, cometas, auroras, e outros eventos celestes foram instituídos por Deus com objetivos. Além disso estes sinais são para marcação das eras. Se somente aqui os dias são fixados, então os tempos da criação não eram de 24 horas.
+
+Um aspecto científico a se pensar é que o Sol e a Lua estão diretamente ligados a gravidade na Terra. Embora seja uma força fraca, a gravidade mantém o planeta na órbita, o que define os dias e os anos. Neste contexto, poderíamos dizer que apareceu a gravidade, entretanto é muito difícil imaginar a erva verde sem a gravidade.
+
+#### V. 15
+
+Este versículo é específico que os luminares têm a finalidade de iluminar a Terra. A luz é o fator que determina o tempo de todas as coisas.
 
 
-#### v.12
 
-
-#### v.13
 
 
 

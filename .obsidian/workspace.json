@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "654eab55af3fad52",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c12e9459a0ac03e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Estudos/Adoração.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adoração"
-            },
-            "group": "53d0e60182bc4409"
-          }
-        ]
-      },
-      {
         "id": "173f3d23ae4e83bf",
         "type": "tabs",
         "children": [
@@ -58,15 +37,29 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1.4019828977761017,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Gráfico de Adoração"
-            },
-            "group": "53d0e60182bc4409"
+            }
+          },
+          {
+            "id": "b094991e7f4d80fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Estudos/Gênesis - A criação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gênesis - A criação"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +220,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c12e9459a0ac03e0",
+  "active": "b094991e7f4d80fe",
   "lastOpenFiles": [
     "Notas/Bíblia/01 Gênesis/Gênesis 22.md",
     "Notas/Estudos/Adoração.md",
