@@ -39,9 +39,20 @@ Essa argumentação é profunda demais para ser resumida numa introdução e tal
 ### A criação de todas as coisas
 #### v1.  [[Gênesis 1#^v1|Gênesis 1.1]]
 
-##### Sobre Deus e a trindade
+##### Sobre Deus e a Trindade
 
-Na bíblia de estudos [[McNair]], o comentarista pontua que a palavra Deus está no plural e o verbo criou está no singular, revelando assim a sua natureza composta na trindade. 
+Na bíblia de estudos [[McNair]], o comentarista pontua que a palavra Deus está no plural e o verbo criou (bara) está na terceira pessoa do singular, revelando assim a sua natureza composta na trindade na forma de uma só pessoa. Esta é uma visão trinitária cristã que observa este fenômeno com uma revelação progressiva oculta na gramática.
+
+De fato a terminação *"im"* de *Elohim* é um sufixo masculino plural. Sua origem vem de Eloah (
+[[Jó 3#^v4|Jó 3.4]]) que é o singular, assim como "querubim". Fora da visão trinitária, argumenta-se que este não é um plural determinante de quantidade e sim qualitativo, sendo definido como plural de majestade ou plural de Excelência (**Gesenius** e **Waltke & O'Connor**). Neste sentido, elevasse o nome a um sentido de Deus dos deuses, um sentido de divindade, o ser supremo.
+
+Voltando a visão trinitária, corroborada por McNair, observamos em alguns textos que o Filho (Jesus o Cristo) criou todas as coisas. Observamos nos primeiro versículos do evangelho de João, no qual ele está falando sobre Jesus que este menciona que Jesus criou todas as coisas
+
+> [!Bible] João 1:3
+> ![[João 1#^v3]]
+
+Podemos observar também em [[Colossenses 1#^v16|Colossenses 1.16]] e [[Hebreus 1#^v2|Hebreus 1.2]] que o o texto fala especificamente sobre Jesus ter criado todas as coisas. Nesta visão, o teólogo propõe que o Pai idealizou, o filho executou agindo pelo poder de seu Espírito, deixando assim implícito a trindade divina. 
+
 ##### Sobre o tempo, espaço e a matéria
 
 De acordo com a maioria dos cientistas, o surgimento de todas as coisas está associada ao aparecimento da matéria, do espaço e do tempo ou espaço-tempo, uma vez que a ciência não consegue desassociar o espaço do tempo. Em parte isso concorda em parte com o que acreditam alguns teólogos.
