@@ -20,9 +20,9 @@ tags:
 
 **7** E, quanto aos anjos, diz: Faz dos seus anjos espíritos, E de seus ministros labareda de fogo. ^v7
 
-**8** Mas, do Filho, diz: Ó Deus, o teu trono subsiste pelos séculos dos séculos; Cetro de eqüidade é o cetro do teu reino. ^v8
+**8** Mas, do Filho, diz: Ó Deus, o teu trono subsiste pelos séculos dos séculos; Cetro de equidade é o cetro do teu reino. ^v8
 
-**9** Amaste a justiça e odiaste a iniqüidade; por isso Deus, o teu Deus, te ungiuCom óleo de alegria mais do que a teus companheiros. ^v9
+**9** Amaste a justiça e odiaste a iniquidade; por isso Deus, o teu Deus, te ungiu com óleo de alegria mais do que a teus companheiros. ^v9
 
 **10** E: Tu, Senhor, no princípio fundaste a terra, E os céus são obra de tuas mãos. ^v10
 

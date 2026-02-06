@@ -61,9 +61,9 @@ De acordo com a maioria dos cientistas, o surgimento de todas as coisas está as
 
 O teólogo e físico [[Adauto Lourenço]] associa de uma forma bem simples o primeiro versículo da bíblia com esta teoria, correlacionando da seguinte forma:
 
-No princípio = tempo
-criou os céus = espaço
-e a terra = matéria
+No princípio = [[Tempo|tempo]]
+criou os céus = [[Espaço|espaço]]
+e a terra = [[Matéria|matéria]]
 
 Essa visão é muito compartilhada no meu cristão atualmente (2025), sendo revelada publicamente por diversos teólogos em sermões e podcasts. Tenho em minha cosmovisão algumas ressalvas sobre este cenário pois se o tempo fosse uma porção a ser criada o interlocutor poderia ter o colocado na sua forma mais ativa. "Deus criou o princípio, os céus e a terra". Parece que também há consenso sobre ter sido criado *"no princípio"* e não *"o princípio"*. Claro que para um observado, talvez isso não tenha ficado claro, mas acredito que há um viés de adequação ao que a ciência teoriza atualmente.
 
@@ -86,16 +86,13 @@ Essa visão é muito compartilhada no meu cristão atualmente (2025), sendo reve
 > **1** No princípio, Deus criou os céus e a terra.
 >
 
-Esta correção tem se tornado usual nas novas traduções e corrige uma adaptação feita por tradutores mais antigos. Na verdade, segundo Paul Joüon, esta palavra não existi no singular e revela uma das formas gramaticais do hebraico, a forma dual (singular, dual ou plural). Aceitando esta premissa, podemos entender um ponto de vista mais semítico de que há vários estágios dos céus como a expansão, onde estão os pássaros, o cosmos onde estão os astros e o céu aonde "está Deus".
+Esta correção tem se tornado usual nas novas traduções e corrige uma adaptação feita por tradutores mais antigos. Na verdade, segundo Paul Joüon, em hegraico esta palavra não existi no singular e revela uma das formas gramaticais do hebraico, a forma dual (singular, dual ou plural). Aceitando esta premissa, podemos entender um ponto de vista mais semítico de que há vários estágios dos céus como a expansão, onde estão os pássaros, o cosmos onde estão os astros e o céu aonde "está Deus".
 
-Também há um fenômeno nesta abordagem chamado de merismo que é uma figura de linguagem para definir dois estremos. Da mesma forma que eu poderia dizer a frase:
-- Procurei de alto a 
+Também há um fenômeno nesta abordagem chamado de merismo que é uma figura de linguagem para definir dois estremos. Da mesma forma que eu poderia dizer a frase: "Procurei de alto a baixo" Moisés escreveu "Deus criou tudo entre os céus e a terra" indicando os extremos para manter o peso da totalidade.
 
 Na minha cosmovisão, que ainda não possuo referência pois me remete aos ensinos nas igreja onde passei, é de que estes céus seriam seriam dimensões imateriais e a terra uma dimensão material. Uma dessas dimensões imateriais é onde os anjos habitam. Uma outra é o mundo espiritual que a nossa alma contempla. O apóstolo Paulo cita em [[2 Coríntios 12#^v2|2 Coríntios 12.2-4]] que conheceu alguém - este seria o próprio Paulo falando de si em terceira pessoa - que foi até o terceiro céus. Não me debrucei ainda sobre esse assunto dos céus, mas a bíblia cita que eles existem.
 
-Não penso na terra física neste versículo pois ela claramente referida nos versículos 9 e 10, quando Deus juntas as águas e aparece a terra seca e ele chama a terra seca de Terra e as águas inferiores de Mar.
-
-Você pode pensar que esta terra do versículo 1 é somente o planeta terra. Pelos diálogos com inúmeras pessoas ao longo da vida cristã e filosófica, acredito que a maioria acredita dessa forma. Nesta linha, é importante observar Deus teria criado o planeta Terra e criado todas as outras coisas em volta. Isso  faz parte do pensamento do ser humano que ele é o centro do universo e da criação. 
+Não penso na terra física neste versículo pois ela claramente referida nos versículos 9 e 10, quando Deus juntas as águas e aparece a terra seca e ele chama a terra seca de Terra e as águas inferiores de Mar. Você pode pensar que esta terra do versículo 1 é somente o planeta terra. Pelos diálogos com inúmeras pessoas ao longo da vida cristã e filosófica, acredito que a maioria acredita dessa forma. Nesta linha, é importante observar Deus teria criado o planeta Terra e criado todas as outras coisas em volta. Isso  faz parte do pensamento do ser humano que ele é o centro do universo e da criação. 
 
 #### v2. [[Gênesis 1#^v2|Gênesis 1.2]]
 

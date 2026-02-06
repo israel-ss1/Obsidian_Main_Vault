@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Adoração.md",
+                "file": "Notas/Estudos/Gênesis - A criação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,7 +41,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Adoração"
+              "title": "Gráfico de Gênesis - A criação"
             }
           },
           {
@@ -58,6 +58,16 @@
               "title": "Gênesis - A criação"
             },
             "group": "d678abd70cbd00d4"
+          },
+          {
+            "id": "f2d74698b8fc4089",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ],
         "currentTab": 1
@@ -74,9 +84,9 @@
               "state": {
                 "file": "Notas/Estudos/Gênesis - A criação.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -103,7 +113,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.508761885579259,
                   "close": true
                 }
               },
@@ -275,11 +285,15 @@
   },
   "active": "b094991e7f4d80fe",
   "lastOpenFiles": [
+    "Notas/Estudos/Gênesis - A criação.md",
     "Notas/Bíblia/Gênesis/Gênesis 1.md",
+    "Notas/Bíblia/24 Jeremias/Jeremias 5.md",
+    "Notas/Bíblia/58 Hebreus/Hebreus 11.md",
+    "Notas/Bíblia/58 Hebreus/Hebreus 1.md",
+    "Notas/Bíblia/20 Provérbios/Provérbios 8.md",
+    "Notas/Bíblia/23 Isaías/Isaías 40.md",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/43 João/João 5.md",
-    "Notas/Estudos/Gênesis - A criação.md",
-    "Notas/Bíblia/58 Hebreus/Hebreus 1.md",
     "Notas/Bíblia/51 Colossenses/Colossenses 1.md",
     "Notas/Bíblia/18 Jó/Jó 3.md",
     "Notas/Bíblia/19 Salmos/Salmos 18.md",
@@ -298,10 +312,6 @@
     "Notas/Sermão/12 - Relacionamento com Jesus.md",
     "Notas/Bíblia/43 João/João 1.md",
     "Notas/Sermão/11 - Relacionamento com Deus.md",
-    "Notas/Sermão/10 - Um chamado para edificar.md",
-    "Notas/Sermão/09 - Dissenções na igreja.md",
-    "Notas/Sermão/08 - A atualidade dos dons espirituais (doutrina).md",
-    "Notas/Sermão/07 - O exemplo da vida de José.md",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",

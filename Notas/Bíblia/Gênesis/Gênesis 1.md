@@ -4,7 +4,7 @@ livro: "[[Gênesis]]"
 ---
 # Gênesis 1
 
-**1** No princípio criou Deus o céu e a terra. ^v1
+**1** No [^1]princípio criou [^2]Deus o céu e a terra. ^v1
 
 **2** E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas. ^v2
 
@@ -66,3 +66,7 @@ livro: "[[Gênesis]]"
 
 **31** E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto. ^v31
 
+
+[^1]: [[Provérbios 8#^v23|Provérbios 8:23]] - [[Hebreus 1#^v10|Hebreus 1.10]]
+
+[^2]: [[Isaías 40#^v26|Isaías 40:26]] 
