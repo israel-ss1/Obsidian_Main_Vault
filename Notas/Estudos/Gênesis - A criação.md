@@ -39,7 +39,9 @@ Essa argumentação é profunda demais para ser resumida numa introdução e tal
 ### A criação de todas as coisas
 #### v1.  [[Gênesis 1#^v1|Gênesis 1.1]]
 
-##### Sobre Deus e a Trindade
+##### Sobre [[Deus]] e a [[Trindade]]
+
+Deus criou todas as coisas. Em nota específica trataremos de quem é Deus. Aqui, vamos nos ater que ao o que Ele fez. 
 
 Na bíblia de estudos [[McNair]], o comentarista pontua que a palavra Deus está no plural e o verbo criou (bara) está na terceira pessoa do singular, revelando assim a sua natureza composta na trindade na forma de uma só pessoa. Esta é uma visão trinitária cristã que observa este fenômeno com uma revelação progressiva oculta na gramática.
 
@@ -65,7 +67,31 @@ e a terra = matéria
 
 Essa visão é muito compartilhada no meu cristão atualmente (2025), sendo revelada publicamente por diversos teólogos em sermões e podcasts. Tenho em minha cosmovisão algumas ressalvas sobre este cenário pois se o tempo fosse uma porção a ser criada o interlocutor poderia ter o colocado na sua forma mais ativa. "Deus criou o princípio, os céus e a terra". Parece que também há consenso sobre ter sido criado *"no princípio"* e não *"o princípio"*. Claro que para um observado, talvez isso não tenha ficado claro, mas acredito que há um viés de adequação ao que a ciência teoriza atualmente.
 
-Um outra interpretação, que ainda não possuo referência pois me remete aos ensinos nas igreja onde passei, é de que estes céus seriam dimensões imateriais e a terra uma dimensão material. Uma dessas dimensões imateriais é onde os anjos habitam. Uma outra é o mundo espiritual que a nossa alma contempla. O apóstolo Paulo cita em [[2 Coríntios 12#^v2|2 Coríntios 12.2-4]] que conheceu alguém - este seria o próprio Paulo falando de si em terceira pessoa - que foi até o terceiro céus. Não me debrucei ainda sobre esse assunto dos céus, mas a bíblia cita que eles existem.
+ É interessante observar o plural na palavra céus. Essa observação se dá por causa da traduções mais recentes onde a palavra céus está no plural. Traduções mais antigas traduzem o vocábulo no singular. Veja abaixo a comparação de alguma traduções:
+
+> [!Bible] Comparação de Versões: Gênesis 1:1
+> **Versão ACF**
+> **1** No princípio criou Deus o céu e a terra.
+>
+> ---
+> **Versão NVI_NOVA_VERSAO_INTERNACIONAL**
+> **1** No princípio Deus criou os céus e a terra.
+>
+> ---
+> **Versão KJF_KING_JAMES_FIEL**
+> **1** No princípio Deus criou o céu e a terra.
+>
+> ---
+> **Versão AS21_ALMEIDA_SECULO_21**
+> **1** No princípio, Deus criou os céus e a terra.
+>
+
+Esta correção tem se tornado usual nas novas traduções e corrige uma adaptação feita por tradutores mais antigos. Na verdade, segundo Paul Joüon, esta palavra não existi no singular e revela uma das formas gramaticais do hebraico, a forma dual (singular, dual ou plural). Aceitando esta premissa, podemos entender um ponto de vista mais semítico de que há vários estágios dos céus como a expansão, onde estão os pássaros, o cosmos onde estão os astros e o céu aonde "está Deus".
+
+Também há um fenômeno nesta abordagem chamado de merismo que é uma figura de linguagem para definir dois estremos. Da mesma forma que eu poderia dizer a frase:
+- Procurei de alto a 
+
+Na minha cosmovisão, que ainda não possuo referência pois me remete aos ensinos nas igreja onde passei, é de que estes céus seriam seriam dimensões imateriais e a terra uma dimensão material. Uma dessas dimensões imateriais é onde os anjos habitam. Uma outra é o mundo espiritual que a nossa alma contempla. O apóstolo Paulo cita em [[2 Coríntios 12#^v2|2 Coríntios 12.2-4]] que conheceu alguém - este seria o próprio Paulo falando de si em terceira pessoa - que foi até o terceiro céus. Não me debrucei ainda sobre esse assunto dos céus, mas a bíblia cita que eles existem.
 
 Não penso na terra física neste versículo pois ela claramente referida nos versículos 9 e 10, quando Deus juntas as águas e aparece a terra seca e ele chama a terra seca de Terra e as águas inferiores de Mar.
 
