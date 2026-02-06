@@ -56,10 +56,63 @@
               },
               "icon": "lucide-file",
               "title": "Gênesis - A criação"
-            }
+            },
+            "group": "d678abd70cbd00d4"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7a4521d2e61cb205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e45257ede3c30cdf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notas/Estudos/Gênesis - A criação.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Notas/Bíblia  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Gênesis - A criação"
+            },
+            "group": "d678abd70cbd00d4"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,6 +275,10 @@
   },
   "active": "b094991e7f4d80fe",
   "lastOpenFiles": [
+    "Fontes/Biografias/McNair.md",
+    "Notas/Estudos/Gênesis - A criação.md",
+    "Notas/Bíblia/47 2 Coríntios/2 Coríntios 12.md",
+    "Fontes/Biografias/Adauto Lourenço.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 22.md",
     "Notas/Estudos/Adoração.md",
     "Notas/Estudos/A Tentação de Jesus.md",
@@ -244,10 +301,6 @@
     "Notas/Sermão/03 - Decisões e consequências.md",
     "Notas/Sermão/16 - Adoração.md",
     "Modelos/05 - Comparador de versões.md",
-    "Modelos/04 - Referência Cruzada.md",
-    "Modelos/03 - Abreviações.md",
-    "Modelos/02 - Bloco de Versículos.md",
-    "Modelos/01 - Referência Bíblica.md",
     "Notas/Bíblia/Oseias",
     "Notas/Bíblia/Gênesis",
     "Notas/Sermão",

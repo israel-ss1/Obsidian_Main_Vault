@@ -39,15 +39,22 @@ Essa argumentação é profunda demais para ser resumida numa introdução e tal
 ### A criação de todas as coisas
 #### v1.  [[Gênesis 1#^v1|Gênesis 1.1]]
 
+##### Sobre Deus e a trindade
+
+Na bíblia de estudos [[McNair]], o comentarista pontua que a palavra Deus está no plural e o verbo criou está no singular, revelando assim a sua natureza composta na trindade. 
+##### Sobre o tempo, espaço e a matéria
+
 De acordo com a maioria dos cientistas, o surgimento de todas as coisas está associada ao aparecimento da matéria, do espaço e do tempo ou espaço-tempo, uma vez que a ciência não consegue desassociar o espaço do tempo. Em parte isso concorda em parte com o que acreditam alguns teólogos.
 
-O teólogo e físico Adauto Lourenço* associa de uma forma bem simples o primeiro versículo da bíblia com esta teoria, correlacionando da seguinte forma:
+O teólogo e físico [[Adauto Lourenço]] associa de uma forma bem simples o primeiro versículo da bíblia com esta teoria, correlacionando da seguinte forma:
 
 No princípio = tempo
 criou os céus = espaço
 e a terra = matéria
 
-Um outra interpretação, que ainda não possuo referência pois me remete aos ensinos nas igreja onde passei, é de que estes céus seriam dimensões imateriais e a terra uma dimensão material. Uma dessas dimensões imateriais é onde os anjos habitam. Uma outra é o mundo espiritual que a nossa alma contempla. O apóstolo Paulo cita em [[2 Coríntios 12#^v2|2 Coríntios 12.2-4]] que conheceu alguém que foi até o terceiro céus. Não me debrucei ainda sobre esse assunto dos céus, mas a bíblia cita que eles existem.
+Essa visão é muito compartilhada no meu cristão atualmente (2025), sendo revelada publicamente por diversos teólogos em sermões e podcasts. Tenho em minha cosmovisão algumas ressalvas sobre este cenário pois se o tempo fosse uma porção a ser criada o interlocutor poderia ter o colocado na sua forma mais ativa. "Deus criou o princípio, os céus e a terra". Parece que também há consenso sobre ter sido criado *"no princípio"* e não *"o princípio"*. Claro que para um observado, talvez isso não tenha ficado claro, mas acredito que há um viés de adequação ao que a ciência teoriza atualmente.
+
+Um outra interpretação, que ainda não possuo referência pois me remete aos ensinos nas igreja onde passei, é de que estes céus seriam dimensões imateriais e a terra uma dimensão material. Uma dessas dimensões imateriais é onde os anjos habitam. Uma outra é o mundo espiritual que a nossa alma contempla. O apóstolo Paulo cita em [[2 Coríntios 12#^v2|2 Coríntios 12.2-4]] que conheceu alguém - este seria o próprio Paulo falando de si em terceira pessoa - que foi até o terceiro céus. Não me debrucei ainda sobre esse assunto dos céus, mas a bíblia cita que eles existem.
 
 Não penso na terra física neste versículo pois ela claramente referida nos versículos 9 e 10, quando Deus juntas as águas e aparece a terra seca e ele chama a terra seca de Terra e as águas inferiores de Mar.
 
