@@ -9,8 +9,9 @@ Em [[Gênesis - A criação]].1 é revelado o início de todas as coisas. Deus c
 Acredito que este céu é a [[Dimensão espiritual]], onde estão os [[Anjos]] e os seres celestiais. Por conseguinte, a terra é a [[Dimensão material]]. As dimensões material e espiritual são criação de Deus e coexistem. Deus não está na dimensão espiritual pois, sendo esta criada por ele, não faz sentido ele ter criado o espaço em que está inserido. Deus não está em nenhum lugar pois não há lugar que comporte Deus. Também, na lógica tomista e aristotélica, se Deus existisse em algum lugar, teria que haver algo superior a ele que criasse esse espaço e não faria mais sentido ser esse o Deus supremo, uma vez que havia outro maior ou algo maior. 
 
 [[Onipresente]]
-Deus é onipresente porque está em todos os lugares criados por ele, mas Ele não habita em lugar nenhum. Isso quer dizer que ele está presente até no inferno. Em 
+Deus é onipresente porque está em todos os lugares criados por Ele, incluindo o inferno; contudo Ele não habita em lugar nenhum. Dizer que Deus está em algum lugar, implica dizer que há um espaço maior que Ele e neste caso, como poderia Ele mesmo ter criado esse espaço? Reconhecer que Deus não está em lugar nenhum é muito paradoxal e difícil de reconhecer.
 
+ 
 [[Onisciente]]
 
 [[Onipotente]]
