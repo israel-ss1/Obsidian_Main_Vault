@@ -16,7 +16,7 @@ tags:
 
 **5** Porque, a qual dos anjos disse jamais: Tu és meu Filho, Hoje te gerei? E outra vez: Eu lhe serei por Pai, E ele me será por Filho? ^v5
 
-**6** E outra vez, quando introduz no mundo o primogênito, diz:E todos os anjos de Deus o adorem. ^v6
+**6** E outra vez, quando introduz no mundo o primogênito, diz: E todos os anjos de Deus o adorem. ^v6
 
 **7** E, quanto aos anjos, diz: Faz dos seus anjos espíritos, E de seus ministros labareda de fogo. ^v7
 
