@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Deus.md",
+                "file": "Notas/Estudos/Trindade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deus"
+              "title": "Trindade"
             },
             "group": "d678abd70cbd00d4"
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Deus.md",
+                "file": "Notas/Estudos/Trindade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,12 +113,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121224,
+                  "scale": 0.7132754626224447,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Deus"
+              "title": "Gráfico de Trindade"
             },
             "group": "d678abd70cbd00d4"
           }
@@ -283,10 +283,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b094991e7f4d80fe",
+  "active": "e45257ede3c30cdf",
   "lastOpenFiles": [
-    "Notas/Bíblia/43 João/João 4.md",
     "Notas/Estudos/Deus.md",
+    "Notas/Bíblia/43 João/João 4.md",
     "Notas/Estudos/Gênesis - A criação.md",
     "Notas/Estudos/Trindade.md",
     "Notas/Bíblia/50 Filipenses/Filipenses 2.md",
