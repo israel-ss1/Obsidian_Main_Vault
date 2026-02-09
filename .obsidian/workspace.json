@@ -8,54 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8649ed751345c627",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notas/Estudos/Gênesis - A criação.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4019828977761017,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Gênesis - A criação"
-            }
-          },
-          {
             "id": "b094991e7f4d80fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Trindade.md",
+                "file": "Notas/Estudos/Alma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trindade"
+              "title": "Alma"
             },
             "group": "d678abd70cbd00d4"
           },
@@ -63,14 +26,13 @@
             "id": "f2d74698b8fc4089",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "3D-Graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7a4521d2e61cb205",
@@ -82,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Trindade.md",
+                "file": "Notas/Estudos/Alma.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,12 +75,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224447,
+                  "scale": 0.7132754626224453,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Trindade"
+              "title": "Gráfico de Alma"
             },
             "group": "d678abd70cbd00d4"
           }
@@ -283,12 +245,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e45257ede3c30cdf",
+  "active": "b094991e7f4d80fe",
   "lastOpenFiles": [
+    "Notas/Estudos/Alma.md",
+    "Notas/Estudos/Consciência.md",
+    "Notas/Estudos/Eu.md",
+    "Notas/Estudos/Metafísica.md",
     "Notas/Estudos/Deus.md",
+    "Notas/Estudos/Trindade.md",
     "Notas/Bíblia/43 João/João 4.md",
     "Notas/Estudos/Gênesis - A criação.md",
-    "Notas/Estudos/Trindade.md",
     "Notas/Bíblia/50 Filipenses/Filipenses 2.md",
     "Notas/Bíblia/58 Hebreus/Hebreus 1.md",
     "Notas/Bíblia/51 Colossenses/Colossenses 1.md",
@@ -308,10 +274,6 @@
     "Fontes/Biografias/Adauto Lourenço.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 22.md",
     "Notas/Estudos/Adoração.md",
-    "Notas/Estudos/A Tentação de Jesus.md",
-    "Notas/Bíblia/28 Oséias/Oséias 13.md",
-    "Notas/Sermão/02 - Viva com Deus.md",
-    "Notas/Sermão/01 - Cinco passos para um soldado perdido.md",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",

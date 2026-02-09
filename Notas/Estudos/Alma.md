@@ -4,6 +4,8 @@ tags:
   - Conceito
 ---
 Parte imaterial do homem. Segundo a teologia tricotômica, o homem é composto por três partes: corpo, alma e espírito. O corpo é sua porção material, presente na dimensão material denominada na bíblia por Terra. A alma é a parte imaterial do homem. Esta é imortal e nela tem origem a [[Emoção||emoção]], a [[Razão||razão]] e a [[Consciência||consciência]]. O corpo material é mortal; porém não foi feito para a morte e também viveria para sempre. Estas três características estão interligadas, concedendo ao homem uma propriedade única. 
+
+Está no ramo de estudo da [[Ontologia|ontologia]].
 #### A alma relacionada a vida do ser humano
 
 Em Gênesis observamos dois aspectos da alma: Ela está relacionada a vida e o ser humano é representado por ela. Há duas passagens em Gênesis que é possível observar uma relação entre a alma e a vida. Na passagem onde Deus forma o homem e, para dar-lhe vida Ele sopra em suas narinas e o homem é feito alma vivente. Destaco nesta passagem [[Gênesis 2#^v7|Gênesis 2.7]] a formação,  criação, o princípio da alma. A alma é imortal mas tem um início, por isso não a classificamos como eterna. A definição de [[eternidade]] é o que não tem início e nem fim; porém, a alma é imortal. 

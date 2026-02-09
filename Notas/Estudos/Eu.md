@@ -2,6 +2,8 @@
 
 [[Consciência]]
 
+Está no ramo de estudo da [[Ontologia|ontologia]].
+
 As pergunta aqui no momento são: 
 1. Como eu percebo que existo?
 2. Como eu percebo que eu sou único?

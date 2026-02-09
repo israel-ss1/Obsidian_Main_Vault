@@ -7,9 +7,7 @@ Segundo os teólogos trinitaristas a primeira evidência da trindade está logo 
 > [!Bible] Gênesis 1:1
 > ![[Gênesis 1#^v1]]
 
-O fato da palavra Elohim ser o plural de Eloah e estar conjugando a terceira pessoa do singular (criou / bara), mostra que este teria uma natureza composta por outras pessoas que são únicos nEle, a trindade. Esta tese está melhor apresentada na nota [[Gênesis - A criação]]. Esta evidência se sustenta com a passagem de [[João 1#^v3|João 1.3]] quando João está falando de Jesus ter criado todas as coisas. Também no texto de [[Colossenses 1#^v16|Colossenses 1.16]], agora Paulo falando sobre Jesus e também em [[Hebreus 1#^v2|Hebreus 1.2]]. Confirmamos nestes textos a presença de Jesus na criação. Já o Espírito Santo o Espírito de Deus é mencionado no versículo 2. Esse entendimento ganha ainda mais força no verso 26 onde o ve
-]~~~~~~
-]rbo façamos indica pluralidade na participação da formação do homem.
+O fato da palavra Elohim ser o plural de Eloah e estar conjugando a terceira pessoa do singular (criou / bara), mostra que este teria uma natureza composta por outras pessoas que são únicos nEle, a trindade. Esta tese está melhor apresentada na nota [[Gênesis - A criação]]. Esta evidência se sustenta com a passagem de [[João 1#^v3|João 1.3]] quando João está falando de Jesus ter criado todas as coisas. Também no texto de [[Colossenses 1#^v16|Colossenses 1.16]], agora Paulo falando sobre Jesus e também em [[Hebreus 1#^v2|Hebreus 1.2]]. Confirmamos nestes textos a presença de Jesus na criação. Já o Espírito Santo o Espírito de Deus é mencionado no versículo 2. Esse entendimento ganha ainda mais força no verso 26 onde o verbo façamos indica pluralidade na participação da formação do homem.
 
 > [!Bible] Gênesis 1:26
 > ![[Gênesis 1#^v26]]

@@ -3,10 +3,7 @@ tags:
   - Estudo
   - Conceito
 ---
-Segundo o conhecimento deste mundo e sintetizado pela a IA:
-
 [[Consciência]] é um conceito que pode ser entendido como ==a capacidade de perceber e conhecer o mundo, a si mesmo e os outros==. 
-
 - A consciência é a percepção dos fenômenos da existência
 - A consciência é a capacidade de discernir
 - A consciência é a percepção do eu por si mesmo
@@ -14,22 +11,7 @@ Segundo o conhecimento deste mundo e sintetizado pela a IA:
 - A consciência é a essência do ser humano
 - A consciência é a fonte de conhecimento e de verdade
 
-Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos, uma vez que ainda não é possível provar a existência de outros seres semelhantes a nós. 
-
-A primeiramente gostaria de fazer distinção entre consciência e outros aspectos inerentes aos seres humanos. A primeira delas é a inteligência. 
-
-A segunda é o é natureza criacionista, ou a capacidade de criar coisas a partir do que não é existente.
-
-# Para meditar:
-
-**António Damásio, no Livro da Consciência, defende que a consciência se divide em 3 dimensões:**
-
-**Fonte –** Referindo-se ao aqui e agora, o ato de dominar e compreender o momento e instante presente, limitando-se a registar os atos presentes, como se de um **foco** de atenção se tratasse. Esta dimensão esta intimamente relacionada com a atenção.
-
-**Processual –** Esta dimensão implica **expectativas** (espera) , **perspectivas** (percepção), planos e qualquer outro registo mental em aberto. Nesta dimensão a consciência permite-se, viajar para o passado de forma a perceber e investigar melhor o futuro, o que muitas vezes causa “ruído” nas nossas atitudes e comportamentos, isto é, as nossas expectativas, perspectivas, planos, são fundamentados com as nossas experiências passadas, porém relacionam-se com o nosso comportamento presente, muitas vezes sem que tenhamos “consciência” disso.
-
-**Ampla –** Esta é responsável por albergar todos os conhecimentos e **experiências** ao longo da existência, porém sem ser um dispositivo ou área associada à memória. Esta dimensão possui em seu registo, todo o conhecimentos e competências que adquirimos ao longo da existência. Associada á processual, é possível “viajar no tempo” da existência do individuo com base nesse registo, tudo dentro dos limites impostos pelo desenvolvimento mental do próprio indivíduo.
-
+Está no ramo de estudo da [[Ontologia|ontologia]].
 ## Introdução
 
 Este estudo é um esforço para definir o que eu penso sobre consciência. Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos, uma vez que ainda não é possível provar a existência de outros seres semelhantes a nós. 
@@ -76,3 +58,14 @@ Uma interpretação sobre a morte aqui é a separação de Deus. Hoje, a morte �
 O último ponto é o mais observável no homem perfeito pois a percepção do eu. Não observo este ponto ligado ao evento da queda. O homem sabia que era diferente dos animais, sabia que a mulher era semelhante a ele, sabia que era único e que os demais viriam dele. Tinha vontade e desejo e possibilidade de decidir estar em comunhão com Deus. 
 
 Uma questão a ser ampliada é a diferença entre "bem e mal" para "certo e errado". Adão sabia o que era errado a se fazer. Comer da árvore era errado. Não cuidar e guardar o jardim era errado. Existe um ar de inocência na forma como a história é passada verbalmente como se o homem e a mulher tivessem sido feitos de bobos por não saber que o que eles estavam fazendo era errado. Temos essa impressão porque o conhecimento do mal não existia antes do fruto. Isso me leva a refletir o que é o mal e o que é o errado.
+
+
+# Para meditar:
+
+**António Damásio, no Livro da Consciência, defende que a consciência se divide em 3 dimensões:**
+
+**Fonte –** Referindo-se ao aqui e agora, o ato de dominar e compreender o momento e instante presente, limitando-se a registar os atos presentes, como se de um **foco** de atenção se tratasse. Esta dimensão esta intimamente relacionada com a atenção.
+
+**Processual –** Esta dimensão implica **expectativas** (espera) , **perspectivas** (percepção), planos e qualquer outro registo mental em aberto. Nesta dimensão a consciência permite-se, viajar para o passado de forma a perceber e investigar melhor o futuro, o que muitas vezes causa “ruído” nas nossas atitudes e comportamentos, isto é, as nossas expectativas, perspectivas, planos, são fundamentados com as nossas experiências passadas, porém relacionam-se com o nosso comportamento presente, muitas vezes sem que tenhamos “consciência” disso.
+
+**Ampla –** Esta é responsável por albergar todos os conhecimentos e **experiências** ao longo da existência, porém sem ser um dispositivo ou área associada à memória. Esta dimensão possui em seu registo, todo o conhecimentos e competências que adquirimos ao longo da existência. Associada á processual, é possível “viajar no tempo” da existência do individuo com base nesse registo, tudo dentro dos limites impostos pelo desenvolvimento mental do próprio indivíduo.
