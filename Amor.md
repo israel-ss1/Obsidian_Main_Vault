@@ -1,7 +1,9 @@
 
-[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em [[Sentimento|sentimentos]] e na percepção do bem e do mal. 
+[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em [[Sentimento|sentimentos]] e na percepção do bem e do mal.
 
+Uma vez que a emoção é uma resposta à um sentimento, o amor de alguém por um terceiro será motivado por um sentimento. Uma pessoa pode sentir empatia e amar um necessitado; pode sentir paixão e amar uma mulher, pode sentir alegria e amar um parente, sentir responsabilidade e amar um filho. sentir zelo e amar seus pais e assim por diante.
 
+O amor nem sempre está relacionado a situações de bem-estar. Um pai fala não para o seu filho com o intuito de oferecer limites e isso é uma forma de amar. 
 ## Amor segundo o senso comum
 
 Para o senso comum, o amor envolve alguns aspectos: 
@@ -36,6 +38,7 @@ Um dos principais discursos do cristianismo é amar os nossos inimigos. Em [[Mat
 
 A ideia latina de amor é muito apegada a sentimentos de reciprocidade e relacionamento. Aqui no Brasil e américa em geral amor é sexo. Quando menos que isso é algo produzido com relacionamento. Eu amo esposa, filhos, pais (se eles foram legais comigo), irmão e talvez alguns amigos. Não é coerente querer amar nossos inimigos se não podemos ter com eles um relacionamento de reciprocidade.
 
+Como já mencionei anteriormente, nem sempre manifestações de amor terão reciprocidade, afeto e relacionamento. Tomemos um inimigo hipotético que, tendo realizado algo em nosso desfavor, teme a vingança. Amar nosso inimigo não quer dizer que temos que procurá-lo. Também não quer dizer que temos que tratá-lo com afeto e carinho (positivo nem negativo). O perdão oferecido ao inimigo, deixando a busca por restituição ou vingança de lado é uma forma de amar. O mal que foi feito dificilmente será esquecido, talvez com o tempo perca o valor mas não esquecido; contudo a desistência da busca pelo mal mesmo com o prejuízo é uma forma de amar nosso inimigo. Pagando o mal com o bem. [[Romanos 12#^v21|Romanos 12.21]]
 
 
 
