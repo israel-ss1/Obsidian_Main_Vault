@@ -13,7 +13,7 @@ Podemos amar alguém com quem não cultivamos uma relacionamento ou não possuí
 
 Com relação à reciprocidade, se amarmos alguém esperando dessa pessoa retribuição, nosso amor não é em sua origem genuíno. Segundo o apóstolo Paulo em [[1 Coríntios 13#^v5|1 Coríntios 13.5]], o amor não busca seus próprios interesses e reciprocidade é a espera de tratamento igual ou semelhante como condição de acordo.
 
-
+Entendendo o afeto como sentimento de proximidade 
 ## Amor por coisas
 
 Tenho pensado sobre o homem poder amar coisas. Sobre amar as coisas me parece irracional acreditar que o homem, tomando decisões buscando o bem de algo que não possui percepção. 
