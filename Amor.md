@@ -1,7 +1,22 @@
 
-[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em [[Sentimento|sentimentos]] e na percepção do bem e do mal.
+[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em [[Sentimento|sentimentos]] e na percepção do bem e do mal. 
 
-Tenho pensado sobre o homem poder amar coisas e animais. Sobre amar as coisas me parece irracional acreditar que o homem, tomando decisões buscando o bem de algo que não possui percepção. 
+
+## Amor segundo o senso comum
+Para o senso comum, o amor envolve alguns aspectos: 
+- relacionamento;
+- reciprocidade;
+- afeto.
+Baseado na minha cosmovisão sobre emoção e sentimento, eu discordo dos três aspectos. Pode haver qualquer um deles ou até mesmo os três; contudo o amor não é dependente de nenhum deles. 
+
+Podemos amar alguém com quem não cultivamos uma relacionamento ou não possuímos algum vínculo, mesmo porque decidir de forma consciente, para o bem de alguém, não ter vínculo também é uma expressão de amor. Deus nos ama tanto que não nos obriga a estar com Ele ou a viver com Ele eternamente. Há casos, muito pontuais na sua maioria, que pessoas se afastam por amor a outras. 
+
+Com relação à reciprocidade, se amarmos alguém esperando dessa pessoa retribuição, nosso amor não é em sua origem genuíno. Segundo o apóstolo Paulo em [[1 Coríntios 13#^v5|1 Coríntios 13.5]], o amor não busca seus próprios interesses e reciprocidade é a espera de tratamento igual ou semelhante como condição de acordo.
+
+
+## Amor por coisas
+
+Tenho pensado sobre o homem poder amar coisas. Sobre amar as coisas me parece irracional acreditar que o homem, tomando decisões buscando o bem de algo que não possui percepção. 
 
 
 ## Amor por animais
@@ -14,7 +29,9 @@ Com respeito ao amor por animais, me geram dúvidas. Vou fazer alguns exercício
 
 ## Amor pelos inimigos
 
-Um dos principais discursos do cristianismo é amar os nossos inimigos. Em [[Mateus 5#^v44|Mateus 5.44-45]] Jesus declara o que é praticamente impossível para nosso entendimento de amor: como podemos amar nossos inimigos
+Um dos principais discursos do cristianismo é amar os nossos inimigos. Em [[Mateus 5#^v44|Mateus 5.44-45]] Jesus declara o que é praticamente impossível para nosso entendimento de amor: como podemos amar nossos inimigos? 
+
+A ideia latina de amor é muito apegada a sentimentos de reciprocidade e relacionamento. Aqui no Brasil e américa em geral amor é sexo. Quando menos que isso é algo produzido com relacionamento. Eu amo esposa, filhos, pais (se eles foram legais comigo), irmão e talvez alguns amigos. Não é coerente querer amar nossos inimigos se não podemos ter com eles um relacionamento de reciprocidade.
 
 
 
