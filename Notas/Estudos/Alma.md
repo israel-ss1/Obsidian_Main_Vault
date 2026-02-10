@@ -63,7 +63,7 @@ A [[Emoção|emoção]], definida com sendo uma resposta ao sentimento, teria su
 
 ### A Alma como sede da consciência
 
-A dois tipos de [[Consciência||consciênca]] estudados pela filosofia: a percepção e a existencial. A percepção seria a que a neurociência fala muito, a condição mental de perceber o seu redor, de estar consciente ou inconsciente. A outra seria a existencial que no dá a certeza da vida, do propósito.
+Há dois tipos de [[Consciência||consciênca]] estudados pela filosofia: a percepção e a existencial. A percepção seria a que a neurociência fala muito, a condição mental de perceber o seu redor, de estar consciente ou inconsciente. A outra seria a existencial que no dá a certeza da vida, do propósito.
 
 No momento tenho elaborado um pensamento da possibilidade de uma delas estar na alma, que seria a percepção e a outra no espírito, que seria a existencial. Poderia também no espírito estar apenas alguns atributos que são necessários para que a alma busque a Deus.
 
@@ -71,9 +71,9 @@ Na alma estaria a percepção de **ir contra a sua própria natureza**. A decis�
 
 A alma também deve estar a **percepção da morte**. Muito se apresenta o espírito como sendo uma parte de Deus, parte esta que retorna para ele quando o corpo morre. Neste caso, o espírito humano, para retornar para Deus, não poderia ter pecado pois Deus é santo. Se este é parte de Deus, então o espírito também seria eterno. O espírito sendo eterno, não faria sentido que neste estaria a percepção da morte.
 
-**A percepção do eu** também estaria na alma, pois sendo a ideia do eu como sendo uma forma única e o espírito seja uma paste de Deus ( buscar base bíblica para isto) o espírito seria algo em comum com entre todas as pessoas.
+**A percepção do eu** também estaria na alma, pois sendo a ideia do eu como sendo uma forma única e o espírito seja uma paste de Deus ( buscar base bíblica para isto) o espírito seria algo em comum  entre todas as pessoas.
 
-Restou para a alma a marca ética, a percepção do certo e do errado. A experienciação do sobrenatural, a necessidade pelo divino e pelo transcendental. 
+Restou para a alma a marca ética, a percepção do certo e do errado. A experimentação do sobrenatural, a necessidade pelo divino e pelo transcendental. 
 
 A Alma peca. - [[Levítico 4#^v2|Levítico 4.2]] [[Levítico 5#^v1|Levítico 5.1-4]]
 A Alma recebe expiação - [[Levítico 17#^v14|Levítico 17.14]] ( A vida da carne é o sangue )
