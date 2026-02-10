@@ -25,10 +25,14 @@
             "id": "3ade9e21d4561839",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Estudos/Alma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alma"
             }
           }
         ]
@@ -245,13 +249,15 @@
   },
   "active": "f903d6c923e728cd",
   "lastOpenFiles": [
-    "Coragem.md",
-    "Notas/Estudos/Emoção.md",
-    "Amor.md",
-    "Notas/Bíblia/45 Romanos/Romanos 12.md",
-    "Afeto.md",
-    "Notas/Bíblia/40 Mateus/Mateus 5.md",
     "Notas/Estudos/Alma.md",
+    "Notas/Estudos/Consciência.md",
+    "Notas/Estudos/Vontade.md",
+    "Notas/Estudos/Emoção.md",
+    "Notas/Estudos/Coragem.md",
+    "Notas/Estudos/Amor.md",
+    "Notas/Bíblia/45 Romanos/Romanos 12.md",
+    "Notas/Estudos/Afeto.md",
+    "Notas/Bíblia/40 Mateus/Mateus 5.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 30.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 26.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 13.md",
@@ -273,8 +279,6 @@
     "Notas/Estudos/Deus.md",
     "Notas/Bíblia/43 João/João 4.md",
     "Notas/Bíblia/50 Filipenses/Filipenses 2.md",
-    "Notas/Sermão/06 - Salmo 3.md",
-    "Notas/Estudos/Consciência.md",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",

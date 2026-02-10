@@ -79,7 +79,7 @@ A Alma peca. - [[Levítico 4#^v2|Levítico 4.2]] [[Levítico 5#^v1|Levítico 5.1
 A Alma recebe expiação - [[Levítico 17#^v14|Levítico 17.14]] ( A vida da carne é o sangue )
 A Alma trabalha - [[Levítico 23#^v30|Levítico 23.30]].
 
-Buscar ao Senhor com toda a Alma e com todo o coração - Dt 4.29, 6.5, 10.12, 11.13, 13.3, 26.16, 30.6,10
+
 
 
 

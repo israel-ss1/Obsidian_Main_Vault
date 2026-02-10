@@ -17,9 +17,9 @@ Neste contexto, muitas emoções são confundidas com sentimentos e vice-versa. 
 
 Ódio
 
-[[Coragem]]
+Coragem
 
-[[Covardia]]
+Covardia
 
 Compaixão
 

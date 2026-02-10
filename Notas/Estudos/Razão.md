@@ -1,6 +1,6 @@
 #Conceito 
 
-Na razão observo a [[decisão]], o [[entendimento]], a [[vontade]], a [[compreensão]].
+Na razão observo a [[decisão]], o [[entendimento]], a [[Vontade]], a [[compreensão]].
 
 Quando eu digo "eu tenho razão", estou decidido, convicto de que a [[verdade]] está comigo.
 
