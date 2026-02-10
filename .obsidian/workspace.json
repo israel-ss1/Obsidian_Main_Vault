@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Gênesis - A criação.md",
+                "file": "Atividades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gênesis - A criação"
+              "title": "Atividades"
+            }
+          },
+          {
+            "id": "3ade9e21d4561839",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a4521d2e61cb205",
@@ -33,7 +44,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Gênesis - A criação.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -69,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gênesis - A criação"
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -233,10 +243,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e45257ede3c30cdf",
+  "active": "3ade9e21d4561839",
   "lastOpenFiles": [
-    "Notas/Estudos/Alma.md",
+    "Atividades.md",
+    "README.md",
     "Notas/Estudos/Gênesis - A criação.md",
+    "Notas/Estudos/Alma.md",
     "Fontes/Biografias/Adauto Lourenço.md",
     "Fontes/Biografias/Tassos Lycurgo.md",
     "Modelos/Biografia.md",
@@ -245,7 +257,7 @@
     "Imagens/Não confirmado 970601.crdownload",
     "Imagens",
     "Notas/Estudos/Trindade.md",
-    "Espírito Santo.md",
+    "Notas/Estudos/Espírito Santo.md",
     "Notas/Estudos/Jesus.md",
     "Notas/Estudos/Deus.md",
     "Notas/Bíblia/43 João/João 4.md",
@@ -264,8 +276,6 @@
     "Notas/Bíblia/23 Isaías/Isaías 40.md",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/43 João/João 5.md",
-    "Notas/Bíblia/18 Jó/Jó 3.md",
-    "Notas/Bíblia/19 Salmos/Salmos 18.md",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",

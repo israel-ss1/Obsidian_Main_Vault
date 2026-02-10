@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:Fontes  ",
+      "query": "path:Fontes/Livros  ",
       "color": {
         "a": 1,
         "rgb": 16383270
@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 316155
       }
+    },
+    {
+      "query": "path:Fontes/Biografias  ",
+      "color": {
+        "a": 1,
+        "rgb": 15696390
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 0.916666666666667,
-  "collapse-forces": true,
-  "centerStrength": 0.5625,
-  "repelStrength": 10.9375,
-  "linkStrength": 0.557291666666667,
-  "linkDistance": 287,
-  "scale": 0.13168724279835803,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 0.5,
+  "linkDistance": 250,
+  "scale": 0.09392927902847348,
   "close": true
 }
