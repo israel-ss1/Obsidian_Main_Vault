@@ -14,16 +14,15 @@ O fato da palavra Elohim ser o plural de Eloah e estar conjugando a terceira pes
 
 ## [[Deus]]
 
-Primeiramente temos que ter em mente de que Deus é O Ser Supremo. Não há nada maior, nem mais poderoso, nem anterior a ele. Ele criou todas as coisas, incluindo o espaço tempo e é dotado de atributos não naturais, ou seja, não pode ser explicado naturalmente. 
+Primeiramente temos que ter em mente de que Deus é O Ser Supremo, o primeiro integrante da trindade. Não há nada maior, nem mais poderoso, nem anterior a ele. Ele criou todas as coisas, incluindo o espaço tempo e é dotado de atributos não naturais, ou seja, não pode ser explicado naturalmente. 
 
-Em [[Gênesis - A criação]]. 1, o primeiro registro da Bíblia, Deus criou no princípio o Céu e a Terra. Eu prefiro conceituar esse versículo como ele tendo criado no princípio as dimensões espirituais e a dimensão material. O fato de estar no plural, seriam várias dimensões, sendo assim, ele não pode estar incorporado em nenhuma delas. A bíblia afirma que Deus é espírito no texto de 
+Em [[Gênesis 1#^v1|Gênesis 1.1]], o primeiro registro da Bíblia, Deus criou no princípio o Céu e a Terra. Eu prefiro conceituar esse versículo como ele tendo criado no princípio as dimensões espirituais e a dimensão material. O fato de estar no plural, seriam várias dimensões, sendo assim, ele não pode estar incorporado em nenhuma delas. A bíblia afirma que Deus é espírito no texto de 
 [[João 4#^v24|João 4.24]], mas eu interpreto esse versículo como sendo imaterial. Isso não quer dizer que ele habita na dimensão espiritual, uma vez que esta foi criada por ele para as criaturas celestiais, mas Deus atua nessas dimensões e para isso, então ele se esvaziou de sua glória para vir a esta dimensão material ou para atuar na dimensão espiritual. Encontramos esta afirmação em 
 [[Filipenses 2#^v5|Filipenses 2.5-8]] que fala a respeito de Jesus.
 
 ## [[Jesus]] ([[Cristologia]])
 
 Começamos declarando que Jesus é Deus, ou seja, Ele tem a mesma natureza poderosa e glorificada, mas que veio a este mundo com um propósito. Nos referimos a Jesus pelo fato de que toda a bíblia é sobre Jesus, mas entende que há no antigo testamento outros eventos onde Deus aparece em forma humana para falar com o homem. A mais conhecida foi quando ele falou a Abraão. Poderíamos dizer que ali, Deus era Jesus, porque é uma porção de Deus aqui nesta dimensão material. Nos referimos a estas aparições como [[Cristofania]]. Sobre estes eventos, tratarei em outra nota.
-
 
 ## [[Espírito Santo]]. ([[Pneumatologia]])
 

@@ -1,10 +1,11 @@
 ---
-Nome: Lourenço, Adauto J. B.
-Data Criação: 10/02/2026
+Nome:
+Data Criação:
 Nascimento:
-Falecimento: 18/04/2024
+Falecimento:
 ---
 
+### Foto
 ![[Adauto_Lourenço.webp]]
 ### Adauto J. B. Lourenço
 

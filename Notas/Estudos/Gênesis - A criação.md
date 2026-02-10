@@ -2,6 +2,9 @@
 tags:
   - Estudo
 ---
+
+
+---
 ### Introdução
 
 #### Porquê estudar a criação

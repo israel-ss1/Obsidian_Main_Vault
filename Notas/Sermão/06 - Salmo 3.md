@@ -1,7 +1,7 @@
 ---
 tags:
   - Sermão
-Data Criação:
+Data Criação: 03/03/2021
 Autor: Israel Silva de Souza
 ---
 ---
@@ -12,11 +12,11 @@ Autor: Israel Silva de Souza
 
 O livro de Salmos é dividido em 5 partes:
 
-1. 1 ao 41\. \- Gênesis  
-2. 42 ao 72\. \- Exôdo  
-3. 73 ao 89\. \- Levítico  
-4. 90 ao 105\. \- Números  
-5. 107 ao 150 \- Deutoronômios
+1. 1 ao 41. - Gênesis  
+2. 42 ao 72. - Exôdo  
+3. 73 ao 89. - Levítico  
+4. 90 ao 105. - Números  
+5. 107 ao 150 - Deutoronômios
 
 Os primeiros livros de salmos (1-8) fala do homem e do Filho do Homem). Fala de felicidade, vitória, confiança, misericórdia, perdão...  
 O salmo 3 \- **Confiança em Deus na adversidade**
