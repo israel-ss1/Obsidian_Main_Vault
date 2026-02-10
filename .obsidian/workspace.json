@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividades.md",
+                "file": "Amor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividades"
+              "title": "Amor"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7a4521d2e61cb205",
@@ -44,6 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Amor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Gráfico de Amor"
             }
           }
         ]
@@ -243,12 +243,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3ade9e21d4561839",
+  "active": "f903d6c923e728cd",
   "lastOpenFiles": [
+    "Notas/Estudos/Emoção.md",
+    "Amor.md",
+    "Notas/Estudos/Alma.md",
+    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 30.md",
+    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 26.md",
+    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 13.md",
+    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 10.md",
+    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 6.md",
     "Atividades.md",
     "README.md",
     "Notas/Estudos/Gênesis - A criação.md",
-    "Notas/Estudos/Alma.md",
     "Fontes/Biografias/Adauto Lourenço.md",
     "Fontes/Biografias/Tassos Lycurgo.md",
     "Modelos/Biografia.md",
@@ -268,14 +275,7 @@
     "Notas/Estudos/Metafísica.md",
     "Notas/Bíblia/58 Hebreus/Hebreus 1.md",
     "Notas/Bíblia/51 Colossenses/Colossenses 1.md",
-    "Notas/Bíblia/Gênesis/Gênesis 1.md",
-    "Notas/Bíblia/43 João/João 1.md",
-    "Notas/Bíblia/24 Jeremias/Jeremias 5.md",
-    "Notas/Bíblia/58 Hebreus/Hebreus 11.md",
-    "Notas/Bíblia/20 Provérbios/Provérbios 8.md",
-    "Notas/Bíblia/23 Isaías/Isaías 40.md",
     "Notas/Bíblia/Gênesis",
-    "Notas/Bíblia/43 João/João 5.md",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",
