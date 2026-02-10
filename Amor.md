@@ -3,17 +3,20 @@
 
 
 ## Amor segundo o senso comum
+
 Para o senso comum, o amor envolve alguns aspectos: 
 - relacionamento;
 - reciprocidade;
-- afeto.
+- [[Afeto|afeto]]. 
 Baseado na minha cosmovisão sobre emoção e sentimento, eu discordo dos três aspectos. Pode haver qualquer um deles ou até mesmo os três; contudo o amor não é dependente de nenhum deles. 
 
 Podemos amar alguém com quem não cultivamos uma relacionamento ou não possuímos algum vínculo, mesmo porque decidir de forma consciente, para o bem de alguém, não ter vínculo também é uma expressão de amor. Deus nos ama tanto que não nos obriga a estar com Ele ou a viver com Ele eternamente. Há casos, muito pontuais na sua maioria, que pessoas se afastam por amor a outras. 
 
 Com relação à reciprocidade, se amarmos alguém esperando dessa pessoa retribuição, nosso amor não é em sua origem genuíno. Segundo o apóstolo Paulo em [[1 Coríntios 13#^v5|1 Coríntios 13.5]], o amor não busca seus próprios interesses e reciprocidade é a espera de tratamento igual ou semelhante como condição de acordo.
 
-Entendendo o afeto como sentimento de proximidade 
+Entendendo o [[Afeto|afeto]] como sentimento de proximidade. É possível amar alguém à distância. Geralmente se fala que a distância mata o amor quando se tratando de relacionamento conjugal ou familiar. Certamente estes precisam não só do afeto positivo quanto o afeto negativo; entretanto há outras manifestações de amor á distância, sem necessariamente demonstrações de afeto.
+
+Embora o amor não dependa destes aspectos, a presença deles evidencia o amor ente as pessoas e algumas formas de amar sem elas são características.
 ## Amor por coisas
 
 Tenho pensado sobre o homem poder amar coisas. Sobre amar as coisas me parece irracional acreditar que o homem, tomando decisões buscando o bem de algo que não possui percepção. 

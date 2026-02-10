@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amor.md",
+                "file": "Afeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amor"
+              "title": "Afeto"
             }
           },
           {
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Amor.md",
+                "file": "Afeto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -79,7 +79,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Amor"
+              "title": "Gráfico de Afeto"
             }
           }
         ]
@@ -245,8 +245,9 @@
   },
   "active": "f903d6c923e728cd",
   "lastOpenFiles": [
-    "Notas/Bíblia/40 Mateus/Mateus 5.md",
     "Amor.md",
+    "Afeto.md",
+    "Notas/Bíblia/40 Mateus/Mateus 5.md",
     "Notas/Estudos/Emoção.md",
     "Notas/Estudos/Alma.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 30.md",
@@ -274,7 +275,6 @@
     "Notas/Estudos/Consciência.md",
     "Notas/Estudos/Eu.md",
     "Notas/Estudos/Metafísica.md",
-    "Notas/Bíblia/58 Hebreus/Hebreus 1.md",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
