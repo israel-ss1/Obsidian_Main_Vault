@@ -8,28 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b094991e7f4d80fe",
+            "id": "f903d6c923e728cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/Biografia.md",
+                "file": "Notas/Estudos/Gênesis - A criação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biografia"
-            },
-            "group": "d678abd70cbd00d4"
-          },
-          {
-            "id": "f2d74698b8fc4089",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "3d_graph_view"
+              "title": "Gênesis - A criação"
             }
           }
         ]
@@ -44,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modelos/Biografia.md",
+                "file": "Notas/Estudos/Gênesis - A criação.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -75,14 +64,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224453,
+                  "scale": 0.7132754626224458,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Biografia"
-            },
-            "group": "d678abd70cbd00d4"
+              "title": "Gráfico de Gênesis - A criação"
+            }
           }
         ]
       }
@@ -245,15 +233,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b094991e7f4d80fe",
+  "active": "e45257ede3c30cdf",
   "lastOpenFiles": [
+    "Notas/Estudos/Alma.md",
+    "Notas/Estudos/Gênesis - A criação.md",
     "Fontes/Biografias/Adauto Lourenço.md",
+    "Fontes/Biografias/Tassos Lycurgo.md",
     "Modelos/Biografia.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
     "Imagens",
-    "Notas/Estudos/Gênesis - A criação.md",
     "Notas/Estudos/Trindade.md",
     "Espírito Santo.md",
     "Notas/Estudos/Jesus.md",
@@ -261,7 +251,6 @@
     "Notas/Bíblia/43 João/João 4.md",
     "Notas/Bíblia/50 Filipenses/Filipenses 2.md",
     "Notas/Sermão/06 - Salmo 3.md",
-    "Notas/Estudos/Alma.md",
     "Notas/Estudos/Consciência.md",
     "Notas/Estudos/Eu.md",
     "Notas/Estudos/Metafísica.md",
@@ -277,7 +266,6 @@
     "Notas/Bíblia/43 João/João 5.md",
     "Notas/Bíblia/18 Jó/Jó 3.md",
     "Notas/Bíblia/19 Salmos/Salmos 18.md",
-    "Fontes/Biografias/McNair.md",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",
     "Fontes/Biografias/Autores Bíblicos",

@@ -89,7 +89,7 @@ Essa visão é muito compartilhada no meu cristão atualmente (2025), sendo reve
 > **1** No princípio, Deus criou os céus e a terra.
 >
 
-Esta correção tem se tornado usual nas novas traduções e corrige uma adaptação feita por tradutores mais antigos. Na verdade, segundo Paul Joüon, em hegraico esta palavra não existi no singular e revela uma das formas gramaticais do hebraico, a forma dual (singular, dual ou plural). Aceitando esta premissa, podemos entender um ponto de vista mais semítico de que há vários estágios dos céus como a expansão, onde estão os pássaros, o cosmos onde estão os astros e o céu aonde "está Deus".
+Esta correção tem se tornado usual nas novas traduções e corrige uma adaptação feita por tradutores mais antigos. Na verdade, segundo Paul Joüon, em hebraico esta palavra não existi no singular e revela uma das formas gramaticais do hebraico, a forma dual (singular, dual ou plural). Aceitando esta premissa, podemos entender um ponto de vista mais semítico de que há vários estágios dos céus como a expansão, onde estão os pássaros, o cosmos onde estão os astros e o céu aonde "está Deus".
 
 Também há um fenômeno nesta abordagem chamado de merismo que é uma figura de linguagem para definir dois estremos. Da mesma forma que eu poderia dizer a frase: "Procurei de alto a baixo" Moisés escreveu "Deus criou tudo entre os céus e a terra" indicando os extremos para manter o peso da totalidade.
 
@@ -118,7 +118,7 @@ As águas e a terra foram criadas antes da luz. Algumas pessoas pensam que a luz
 
 #### v3. [[Gênesis 1#^v3|Gênesis 1.3]] (Luz)
 
-Dizer é o ato de expressar o pensamento. É a materialização da vontade. Encontramos aqui uma característica da natureza de Deus, a vontade. A vontade é uma das coisas em que somos semelhantes a Deus. Acredito que a vontade humana está na [[Alma]] (ou no espírito) e não é um impulso material do cérebro. Ele criou todas as coisas pela sua vontade. Aqui, através do verbo ele cria a luz. Mais uma vez, não foi a primeira ação de Deus, ele já havia criado a terra e as águas.
+Dizer é o ato de expressar o pensamento, é a materialização do pensamento e o pensamento é caracterizado, além de outras coisas, pela vontade. Encontramos aqui uma característica da natureza de Deus, a vontade. A vontade é uma das coisas em que somos semelhantes a Deus. Acredito que a vontade humana está na [[Alma]] (ou no espírito) e não é um impulso material do cérebro. Ele criou todas as coisas pela sua vontade. Aqui, através do verbo ele cria a luz. Mais uma vez, não foi a primeira ação de Deus, ele já havia criado a terra e as águas.
 
 A [[luz]] é uma partícula ímpar na ciência que transita entre o material e o imaterial. Para a ciência ela ainda é um mistério. Podemos explicar muitas coisa sobre o que é a luz, mas nunca é uma certeza absoluta. A menor partícula da luz é o fóton. O Fóton não tem massa. Sua velocidade rejeita o espaço e o tempo. Para que a luz tenha um aspecto importante na criação, ela deve ter sido criada no meio das trevas. Isso nos dá a ideia de que as águas estavam no abismo. 
 

@@ -25,3 +25,9 @@ Embora tenha formação técnica em física, Adauto tornou-se célebre no meio e
 
 - _> Como Tudo Começou:_ Seu livro mais famoso, considerado uma obra de referência para criacionistas de língua portuguesa.    
 - _> A Igreja e a Criação:_ Onde aborda o impacto do pensamento evolucionista na teologia cristã.
+
+### Vídeos
+
+Última palestra gravada do Dr Adauto Lourenço.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7IfbqCjvY1I?si=_Xq-am3d8PV2vo3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
