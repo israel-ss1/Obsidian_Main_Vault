@@ -64,7 +64,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224458,
+                  "scale": 0.7132754626224462,
                   "close": true
                 }
               },
@@ -233,7 +233,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3ade9e21d4561839",
+  "active": "e45257ede3c30cdf",
   "lastOpenFiles": [
     "Notas/Estudos/Afeto.md",
     "Notas/Estudos/Alma.md",
