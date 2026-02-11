@@ -3,17 +3,17 @@ tags:
   - Conceito
   - Estudo
 ---
+--- 
 
+Segundo minha cosmovisão, entendendo o afeto como um [[sentimento]] de proximidade. O afeto geralmente é demonstrado pelo toque, embora não exclusivamente pois pode ser expresso através de palavras e gestos. Uma característica do afeto é que ele desperta um sentimento por conta da proximidade entre os participantes. Considero o gesto de enviar um presente uma forma de afeto porque a proximidade está representada pelo objeto em sim que desperta o sentimento e que está próximo. Uma lembrança produz um sentimento de saudade e não de afeto. 
 
-Segundo minha cosmovisão, entendendo o afeto como um sentimento de proximidade. O afeto geralmente é demonstrado pelo toque, embora não exclusivamente pois pode ser expresso através de palavras e gestos. Uma característica do afeto é que ele desperta um sentimento por conta da proximidade entre os participantes. Considero o gesto de enviar um presente uma forma de afeto porque a proximidade está representada pelo objeto em sim que desperta o sentimento e que está próximo. Uma lembrança produz um sentimento de saudade e não de afeto. 
-
-Existe a pessoa que pratica o afeto e a que recebe o afeto. Nem sempre a pessoa que pratica o afeto tem reciprocidade e esse sentimento se confunde pois, se não aproxima, por definição ele se perde. As vezes a pessoa que pratica o afeto deseja o bem mas busca fazê-lo de formas indevidas ou para proveito próprio, o que corrompe também o sentimento.
+Existe a pessoa que pratica o afeto e a que recebe o afeto. Nem sempre a pessoa que pratica o afeto tem reciprocidade e esse sentimento se confunde pois, se não aproxima, por definição ele se perde. As vezes a pessoa que pratica o afeto deseja o bem mas busca fazê-lo de formas indevidas ou para proveito próprio, o que corrompe também o sentimento. Afeto envolve intimidade e permissão. Mesmo sendo uma demonstração pacífica 
 
 O afeto pode ser positivo ou negativo.
 
 ## Afeto positivo
 
-Normalmente as demonstrações de afeto estão em um cenário de xxxxxx . Quando relacionado ao toque observamos beijos, abraços, cafuné, toques e cheiros. O afeto também pode ser expresso por palavras de carinho, encorajamento e engrandecimento sempre de forma gratuita, não havendo motivos claros para o ato.
+Normalmente as demonstrações de afeto estão em um cenário pacífico e de bem-estar humano. Quando relacionado ao toque observamos beijos, abraços, cafuné, toques e cheiros. O afeto também pode ser expresso por palavras de carinho, encorajamento e engrandecimento sempre de forma gratuita, não havendo motivos claros para o ato.
 
 ## Afeto negativo
 

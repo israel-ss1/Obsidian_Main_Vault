@@ -35,12 +35,12 @@ No deserto, após 40 dias de [[Jejum]], junto ao Sol a aos animais silvestres, d
 
 Essa pequena palavra “[[Se]]”, é uma partícula e aqui é usado como conjunção condicional. No meu trabalho dizemos que é uma proposição lógica “se, então”. Qual era a condição? transformar pedras em pães para provar que é o filho de Deus. O diabo já sabia que Jesus é o filho de Deus, ele estava ali para invalidar o seu propósito, tentando-o da mesma forma que ele fez com Adão e no mesmo pecado em que ele caiu. Como assim? já explico.
 
-As crianças adoram esse tipo de desafio: duvido você fazer, se você é capaz, você não tem coragem, se você pode então prove. As pessoas caem nesse tipo de convite porque precisam de [[aceitação]], reconhecimento e aprovação. Tudo se resume a [[Ego]], [[Orgulho]], [[Soberba]]. Se Jesus tivesse transformado pedras em pães, ele teria se curvado a uma falha do caráter humano desde o início, o ego.
+As crianças adoram esse tipo de desafio: duvido você fazer, se você é capaz, você não tem coragem, se você pode então prove. As pessoas caem nesse tipo de convite porque precisam de aceitação, reconhecimento e aprovação. Tudo se resume a [[Ego]], [[Orgulho]], [[Soberba]]. Se Jesus tivesse transformado pedras em pães, ele teria se curvado a uma falha do caráter humano desde o início, o ego.
 
 Foi o mesmo que o diabo fez com o homem no texto de [[Gênesis 3#^v6|Gênesis 3.6]], se você comer do fruto você vai ser mais, vai ter mais e ganhou dele no jardim. O próprio [[Diabo]] caiu por causa do mesmo motivo, a soberba, vemos isso em [[Ezequiel 28#^v17|Ezequiel 28.17]]. Jesus resistiu a primeira tentação exposta a natureza do homem, o ego. Vemos isso no texto do apóstolo Paulo em [[Filipenses 2#^v6|Filipenses 2.6-11]].
 
 APLICAÇÂO
-- Grande parte dos nossos problemas são por causa do nosso [[Ego]]. Não nos desviamos do [[Mal]] porque é uma questão de honra. Fazemos inimigos e dívidas pela busca do [[reconhecimento]]. Nos frustramos esperando [[aprovação]] de pessoas. [[1 João 2#^v15|1 João 2.15-17]]
+- Grande parte dos nossos problemas são por causa do nosso [[Ego]]. Não nos desviamos do [[Mal]] porque é uma questão de honra. Fazemos inimigos e dívidas pela busca do reconhecimento. Nos frustramos esperando aprovação de pessoas. [[1 João 2#^v15|1 João 2.15-17]]
   
 ### Como Jesus conseguiu vencer esta tentação?
 

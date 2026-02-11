@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividades.md",
+                "file": "Notas/Estudos/Amor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atividades"
+              "title": "Amor"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atividades.md",
+                "file": "Notas/Estudos/Amor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,14 +43,35 @@
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "path:Notas/Bíblia  ",
                       "color": {
                         "a": 1,
                         "rgb": 14048348
+                      }
+                    },
+                    {
+                      "query": "path:Notas/Estudos  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5104406
+                      }
+                    },
+                    {
+                      "query": "path:Notas/Sermão  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 964577
+                      }
+                    },
+                    {
+                      "query": "path:Fontes  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16185856
                       }
                     }
                   ],
@@ -64,12 +85,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224462,
+                  "scale": 0.508761885579262,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Atividades"
+              "title": "Gráfico de Amor"
             }
           }
         ]
@@ -235,6 +256,12 @@
   },
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
+    "Notas/Estudos/Alma.md",
+    "Notas/Estudos/Afeto.md",
+    "Notas/Estudos/Adoração.md",
+    "Notas/Estudos/A Tentação de Jesus.md",
+    "Atividades.md",
+    "README.md",
     "Modelos/05 - Comparador de versões.md",
     "Modelos/04 - Referência Cruzada.md",
     "Modelos/03 - Abreviações.md",
@@ -242,10 +269,6 @@
     "Modelos/01 - Referência Bíblica.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
     "Notas/Bíblia/Gênesis/Gênesis 1.md",
-    "Atividades.md",
-    "Notas/Estudos/Adoração.md",
-    "Notas/Estudos/Afeto.md",
-    "Notas/Estudos/Alma.md",
     "Notas/Estudos/Emoção.md",
     "Notas/Estudos/Consciência.md",
     "Notas/Estudos/Vontade.md",
@@ -258,9 +281,7 @@
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 13.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 10.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 6.md",
-    "README.md",
     "Notas/Estudos/Gênesis - A criação.md",
-    "Fontes/Biografias/Adauto Lourenço.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",

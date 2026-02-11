@@ -4,6 +4,10 @@
 Uma vez que a emoção é uma resposta à um sentimento, o amor de alguém por um terceiro será motivado por um sentimento. Uma pessoa pode sentir empatia e amar um necessitado; pode sentir paixão e amar uma mulher, pode sentir alegria e amar um parente, sentir responsabilidade e amar um filho. sentir zelo e amar seus pais e assim por diante.
 
 O amor nem sempre está relacionado a situações de bem-estar. Um pai fala não para o seu filho com o intuito de oferecer limites e isso é uma forma de amar. 
+
+## Amor a si próprio
+
+A Bíblia 
 ## Amor segundo o senso comum
 
 Para o senso comum, o amor envolve alguns aspectos: 
@@ -22,7 +26,7 @@ Embora o amor não dependa destes aspectos, a presença deles evidencia o amor e
 ## Amor por coisas
 
 Tenho pensado sobre o homem poder amar coisas. Sobre amar as coisas me parece irracional acreditar que o homem, tomando decisões buscando o bem de algo que não possui percepção. 
-
+Tem um dito popular neste dias que circula nas redes sociais que é "Use as coisas. Ame as pessoas"
 
 ## Amor por animais
 
