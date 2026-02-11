@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelos/05 - Comparador de versões.md",
+                "file": "Atividades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Comparador de versões"
+              "title": "Atividades"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modelos/05 - Comparador de versões.md",
+                "file": "Atividades.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -69,7 +69,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 05 - Comparador de versões"
+              "title": "Gráfico de Atividades"
             }
           }
         ]
@@ -235,6 +235,7 @@
   },
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
+    "Modelos/05 - Comparador de versões.md",
     "Modelos/04 - Referência Cruzada.md",
     "Modelos/03 - Abreviações.md",
     "Modelos/02 - Bloco de Versículos.md",
@@ -260,7 +261,6 @@
     "README.md",
     "Notas/Estudos/Gênesis - A criação.md",
     "Fontes/Biografias/Adauto Lourenço.md",
-    "Fontes/Biografias/Tassos Lycurgo.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
