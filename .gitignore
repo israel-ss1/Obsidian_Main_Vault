@@ -1,0 +1,16 @@
+# Cache e arquivos internos do Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# Cache de plugins (ex: Databases, Full Calendar, etc.)
+.obsidian/plugins/*/*.cache
+.obsidian/plugins/*/data.json
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Opcional: Se você usa o plugin "Periodic Notes" ou logs de sincronização
+*.log

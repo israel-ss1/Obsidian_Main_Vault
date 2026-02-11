@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Adoração.md",
+                "file": "Modelos/05 - Comparador de versões.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adoração"
+              "title": "05 - Comparador de versões"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Adoração.md",
+                "file": "Modelos/05 - Comparador de versões.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -69,7 +69,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Adoração"
+              "title": "Gráfico de 05 - Comparador de versões"
             }
           }
         ]
@@ -233,8 +233,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e45257ede3c30cdf",
+  "active": "3ade9e21d4561839",
   "lastOpenFiles": [
+    "Modelos/04 - Referência Cruzada.md",
+    "Modelos/03 - Abreviações.md",
+    "Modelos/02 - Bloco de Versículos.md",
+    "Modelos/01 - Referência Bíblica.md",
+    "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
+    "Notas/Bíblia/Gênesis/Gênesis 1.md",
+    "Atividades.md",
+    "Notas/Estudos/Adoração.md",
     "Notas/Estudos/Afeto.md",
     "Notas/Estudos/Alma.md",
     "Notas/Estudos/Emoção.md",
@@ -249,22 +257,14 @@
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 13.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 10.md",
     "Notas/Bíblia/05 Deuteronômio/Deuteronômio 6.md",
-    "Atividades.md",
     "README.md",
     "Notas/Estudos/Gênesis - A criação.md",
     "Fontes/Biografias/Adauto Lourenço.md",
     "Fontes/Biografias/Tassos Lycurgo.md",
-    "Modelos/Biografia.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
     "Imagens",
-    "Notas/Estudos/Trindade.md",
-    "Notas/Estudos/Espírito Santo.md",
-    "Notas/Estudos/Jesus.md",
-    "Notas/Estudos/Deus.md",
-    "Notas/Bíblia/43 João/João 4.md",
-    "Notas/Bíblia/50 Filipenses/Filipenses 2.md",
     "Notas/Bíblia/Gênesis",
     "Notas/Bíblia/Oseias",
     "Notas/Sermão",

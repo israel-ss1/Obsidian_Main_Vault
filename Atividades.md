@@ -5,7 +5,7 @@
 - [ ] Script template para inserção de citação de acordo com ABNT
 - [ ] Template para criação de nota de livros com imagens da capa
 - [ ] Criar o REAMDE do github
-- [ ] Criar o arquivo do git ignore para arquivos não públicos
+- [x] Criar o arquivo do git ignore para arquivos não públicos
 
 
 # Notas Livros
