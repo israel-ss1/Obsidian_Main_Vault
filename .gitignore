@@ -12,5 +12,6 @@
 .DS_Store
 Thumbs.db
 
-# Opcional: Se você usa o plugin "Periodic Notes" ou logs de sincronização
 *.log
+*.json
+Notas/Bíblia/*.csv
