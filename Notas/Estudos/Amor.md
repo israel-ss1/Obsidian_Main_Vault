@@ -1,5 +1,13 @@
+---
+tags:
+  - Estudo
+  - Conceito
+Autor: Israel Silva de Souza
+Classe: Emoção
+---
+---
 
-[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em [[Sentimento|sentimentos]] e na percepção do bem e do mal.
+[[Emoção]] manifesta através de decisões do indivíduo buscando o bem de si próprio ou de outra pessoa. Esta manifestação se baseia em sentimentos e na percepção do bem e do mal.
 
 Uma vez que a emoção é uma resposta à um sentimento, o amor de alguém por um terceiro será motivado por um sentimento. Uma pessoa pode sentir empatia e amar um necessitado; pode sentir paixão e amar uma mulher, pode sentir alegria e amar um parente, sentir responsabilidade e amar um filho. sentir zelo e amar seus pais e assim por diante.
 
@@ -7,7 +15,7 @@ O amor nem sempre está relacionado a situações de bem-estar. Um pai fala não
 
 ## Amor a si próprio
 
-A Bíblia 
+Em [[Mateus 22#^v39|Mateus 22.39]] Jesus cita o texto de [[Levítico 19#^v18|Levítico 19.18]], o segundo maior mandamento que é amar o próximo como a ti mesmo. Este é um mandamento fundamental dito por Deus e validado por Jesus. Vemos aqui que o cuidado a si próprio é algo inerente ao homem. O excesso de amor próprio leva o homem à vários tipo de pecado, mas não quer dizer que não deva existir. A falta de amor próprio leva o ser humano a um estado de desvalorização da vida e por consequência a desvalorização do próximo também.
 ## Amor segundo o senso comum
 
 Para o senso comum, o amor envolve alguns aspectos: 

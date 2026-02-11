@@ -2,6 +2,7 @@
 tags:
   - Conceito
   - Estudo
+Classe: Sentimento
 ---
 --- 
 
