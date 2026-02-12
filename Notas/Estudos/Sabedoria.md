@@ -18,7 +18,9 @@ Prefiro definir sabedoria como a habilidade de tomar decisões. Somente isso. É
 
 ## Sabedoria e inteligência
 
-É muito comum as pessoas fazerem confusão entre sabedoria e inteligência. Normalmente uma pessoa sábia é inteligente e encontra soluções para problemas difíceis além de decidir com sabedoria o trato deles. Porém, na minha cosmovisão e na de várias outras, sabedoria e inteligência são duas coisas distintas. Defino inteligência como a habilidade de resolver problemas. Resolver problemas não necessariamente requer saber decidir. Em meu círculo social observo várias pessoas simples, sem muito estudo e inteligência que conseguem decidir com sabedoria os problemas da vida.
+É muito comum as pessoas fazerem confusão entre sabedoria e inteligência. Normalmente uma pessoa sábia é inteligente e encontra soluções para problemas difíceis além de decidir com sabedoria o trato deles. Porém, na minha cosmovisão e na de várias outras, sabedoria e inteligência são duas coisas distintas. Defino inteligência como a habilidade de resolver problemas. Resolver problemas não necessariamente requer saber decidir. Em meu círculo social observo várias pessoas simples, sem muito estudo e inteligência que conseguem decidir com sabedoria os problemas da vida. 
+
+Minha percepção é que são habilidades com origens diferentes. Acredito que a inteligência se encontra no corpo, depende de padrões genéticos e de cenário favorável para se desenvolver. Já a sabedoria vem está na [[alma]], está ligado a vontade e ao discernimento.
 
 
 

@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224477,
+                  "scale": 0.7132754626224492,
                   "close": true
                 }
               },
@@ -264,9 +264,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3ade9e21d4561839",
+  "active": "e45257ede3c30cdf",
   "lastOpenFiles": [
+    "Fontes/Livros/Entendes o que lês.md",
     "Notas/Estudos/Sabedoria.md",
+    "Notas/Estudos/Alma.md",
     "Notas/Bíblia/59 Tiago/Tiago 3.md",
     "Notas/Bíblia/59 Tiago/Tiago 1.md",
     "Notas/Bíblia/19 Salmos/Salmos 111.md",
@@ -282,7 +284,6 @@
     "Notas/Bíblia/45 Romanos/Romanos 12.md",
     "Notas/Bíblia/40 Mateus/Mateus 22.md",
     "Notas/Bíblia/03 Levítico/Levítico 19.md",
-    "Notas/Estudos/Alma.md",
     "Notas/Estudos/Adoração.md",
     "Notas/Estudos/A Tentação de Jesus.md",
     "Atividades.md",
@@ -291,7 +292,6 @@
     "Modelos/04 - Referência Cruzada.md",
     "Modelos/03 - Abreviações.md",
     "Modelos/02 - Bloco de Versículos.md",
-    "Modelos/01 - Referência Bíblica.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
