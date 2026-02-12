@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Amor.md",
+                "file": "Notas/Estudos/Sabedoria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amor"
+              "title": "Sabedoria"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Amor.md",
+                "file": "Notas/Estudos/Sabedoria.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Amor"
+              "title": "Gráfico de Sabedoria"
             }
           }
         ]
@@ -256,9 +256,14 @@
   },
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
+    "Notas/Bíblia/20 Provérbios/Provérbios 16.md",
+    "Notas/Estudos/Sabedoria.md",
+    "Notas/Bíblia/01 Gênesis/Gênesis 45.md",
+    "Notas/Estudos/Vontade.md",
+    "Notas/Bíblia/20 Provérbios/Provérbios 3.md",
+    "Notas/Estudos/Amor.md",
     "Notas/Estudos/Emoção.md",
     "Notas/Estudos/Afeto.md",
-    "Notas/Estudos/Amor.md",
     "Notas/Estudos/O Sermão da Montanha.md",
     "Notas/Bíblia/45 Romanos/Romanos 12.md",
     "Notas/Bíblia/40 Mateus/Mateus 22.md",
@@ -276,12 +281,7 @@
     "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
     "Notas/Bíblia/Gênesis/Gênesis 1.md",
     "Notas/Estudos/Consciência.md",
-    "Notas/Estudos/Vontade.md",
     "Notas/Estudos/Coragem.md",
-    "Notas/Bíblia/40 Mateus/Mateus 5.md",
-    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 30.md",
-    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 26.md",
-    "Notas/Bíblia/05 Deuteronômio/Deuteronômio 13.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
