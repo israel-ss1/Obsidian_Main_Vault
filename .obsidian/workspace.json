@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/Sabedoria.md",
+                "file": "Notas/Estudos/Vontade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sabedoria"
+              "title": "Vontade"
             }
           },
           {
@@ -43,7 +43,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/Sabedoria.md",
+                "file": "Notas/Estudos/Vontade.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Sabedoria"
+              "title": "Gráfico de Vontade"
             }
           }
         ]
@@ -264,10 +264,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e45257ede3c30cdf",
+  "active": "3ade9e21d4561839",
   "lastOpenFiles": [
-    "Fontes/Livros/Entendes o que lês.md",
     "Notas/Estudos/Sabedoria.md",
+    "Fontes/Livros/Entendes o que lês.md",
     "Notas/Estudos/Alma.md",
     "Notas/Bíblia/59 Tiago/Tiago 3.md",
     "Notas/Bíblia/59 Tiago/Tiago 1.md",

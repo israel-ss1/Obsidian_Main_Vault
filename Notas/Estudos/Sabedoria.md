@@ -23,6 +23,11 @@ Prefiro definir sabedoria como a habilidade de tomar decisões. Somente isso. É
 Minha percepção é que são habilidades com origens diferentes. Acredito que a inteligência se encontra no corpo, depende de padrões genéticos e de cenário favorável para se desenvolver. Já a sabedoria vem está na [[alma]], está ligado a vontade e ao discernimento.
 
 
+## Habilidade da alma
+
+Dentre todas as características da alma, tenho me debruçado mais nas emoções. Não defino a sabedoria como uma emoção pois não a vejo como um estado da alma e, embora tenha a ação de decidir, não está relacionada a ação em si e sim a habilidade de fazer corretamente. Sendo esta a primeira habilidade da alma que percebo. Se a alma possui habilidades, deve haver outras.
+
+
 
 
 
