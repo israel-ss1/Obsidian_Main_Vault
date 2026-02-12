@@ -11,10 +11,17 @@ Ainda segundo os autores, algumas decisões "podem ser resultados de escolhas de
 
 Após esta introdução os autores argumentam o que e por que são decisões piedosas.
 
-
-
 ## Decisões piedosas
 
-Prefiro definir sabedoria como a habilidade de tomar decisões. Somente isso. É claro que as decisões tem que ser boas para o seu propósito. O que entendo é que a Bíblia mostra que as boas decisões são as decisões piedosas, as que tem o direcionamento divino, que estão debaixo da aprovação de Deus.
+Prefiro definir sabedoria como a habilidade de tomar decisões. Somente isso. É claro que as decisões tem que ser boas para o seu propósito. O que entendo é que a Bíblia mostra que as boas decisões são as decisões piedosas (piedosas com significado de divinas), as que tem o direcionamento divino, que estão debaixo da aprovação de Deus. Essa conclusão tem base nos textos de [[Provérbios 9#^v10|Provérbios 9.10]] e [[Salmos 111#^v10|Salmos 111.10]]. Nesse aspecto, precisamos reconhecer que os sábios precisam crer em Deus e buscar a sua sabedoria. O texto de [[Tiago 1#^v5|Tiago 1.5]] mostra que Deus dá sabedoria aos que buscam nele e mais à frente no texto [[Tiago 3#^v13|Tiago 3.13-18]] ele demonstra esse tipo de sabedoria contrastando com a sabedoria terrena.
+
+
+## Sabedoria e inteligência
+
+É muito comum as pessoas fazerem confusão entre sabedoria e inteligência. Normalmente uma pessoa sábia é inteligente e encontra soluções para problemas difíceis além de decidir com sabedoria o trato deles. Porém, na minha cosmovisão e na de várias outras, sabedoria e inteligência são duas coisas distintas. Defino inteligência como a habilidade de resolver problemas. Resolver problemas não necessariamente requer saber decidir. Em meu círculo social observo várias pessoas simples, sem muito estudo e inteligência que conseguem decidir com sabedoria os problemas da vida.
+
+
+
+
 
 

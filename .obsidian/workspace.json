@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Sabedoria"
             }
+          },
+          {
+            "id": "96e11d286b513393",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
           }
         ]
       },
@@ -85,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.508761885579262,
+                  "scale": 0.7132754626224477,
                   "close": true
                 }
               },
@@ -256,8 +266,12 @@
   },
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
-    "Notas/Bíblia/20 Provérbios/Provérbios 16.md",
     "Notas/Estudos/Sabedoria.md",
+    "Notas/Bíblia/59 Tiago/Tiago 3.md",
+    "Notas/Bíblia/59 Tiago/Tiago 1.md",
+    "Notas/Bíblia/19 Salmos/Salmos 111.md",
+    "Notas/Bíblia/20 Provérbios/Provérbios 9.md",
+    "Notas/Bíblia/20 Provérbios/Provérbios 16.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 45.md",
     "Notas/Estudos/Vontade.md",
     "Notas/Bíblia/20 Provérbios/Provérbios 3.md",
@@ -278,10 +292,6 @@
     "Modelos/03 - Abreviações.md",
     "Modelos/02 - Bloco de Versículos.md",
     "Modelos/01 - Referência Bíblica.md",
-    "Notas/Bíblia/01 Gênesis/Gênesis 1.md",
-    "Notas/Bíblia/Gênesis/Gênesis 1.md",
-    "Notas/Estudos/Consciência.md",
-    "Notas/Estudos/Coragem.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
