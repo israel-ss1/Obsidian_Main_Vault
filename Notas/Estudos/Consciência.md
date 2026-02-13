@@ -12,6 +12,8 @@ tags:
 - A consciência é a fonte de conhecimento e de verdade
 
 Está no ramo de estudo da [[Ontologia|ontologia]].
+
+Sim, minha convicção nasceu baseado na religião até se expandir para uma ideia filosófica. Busco base bíblica para todas as minhas teorias e percepções. Não tenho problemas com isso uma vez que acredito que na Bíblia se reúnem vários textos de pensadores que registraram suas percepções além da fé que o próprio Deus os inspirou com a finalidade de orientar os homens no caminho do autoconhecimento e do conhecimento de Deus.
 ## Introdução
 
 Este estudo é um esforço para definir o que eu penso sobre consciência. Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos, uma vez que ainda não é possível provar a existência de outros seres semelhantes a nós. 
@@ -30,19 +32,31 @@ Esta lista poderá crescer ou diminuir a medida que eu puder estudar outros que 
 
 Perceber a existência é uma das primeiras qualidades subjetivas observáveis no ser humano. Descartes sintetizou na célebre frase "Penso logo existo". Sabemos que temos uma voz interior que se traduz em pensamentos, mas pensar essa percepção vai além disso.
 
-Analisando alguns cenários, podemos observar que estas percepções compreendem dois aspectos: de que existimos e de que somos únicos. A existência é extra-sensorial, não depende dos sentidos para percebermos que existimos e o segundo aspecto dele é que o fato de nos transformarmos não a afeta.
+Analisando alguns cenários, podemos observar que estas percepções compreendem dois aspectos: de que existimos e de que somos únicos. A existência é extra-sensorial, não depende dos sentidos para percebermos que existimos e o segundo aspecto dele é que o fato de nos transformarmos não a afeta. Não há consenso sobre a não dependência dos sentidos, alguns pensadores acreditam que sem sentimento não há consciência. 
 
-Já a ideia de que somos únicos vem da nossa compreensão de tempo e espaço. Entendemos que vivemos somente o presente e o que fica no passado não existe mais. Além disso o controle que temos do futuro é previsibilidade e a incerteza. 
+Já a ideia de que somos únicos pode vir da nossa **compreensão de tempo e espaço**. Entendemos que vivemos somente o presente e o que fica no passado não existe mais. Além disso o controle que temos do futuro é de previsibilidade e de incerteza. Já o espaço diz respeito a entender que somente uma pessoa pode ocupa-lo ao mesmo tempo. Estas duas coisas unidas nos dá a percepção de movimento de transformação.
 
-Já o espaço diz respeito a entender que somente uma pessoa pode ocupa-lo ao mesmo tempo. 
+A  consciência **só pode ser projetada em um lugar**. é uma instância linear e não nos permite que tenhamos consciência instantânea em várias coisas e lugares ao mesmo tempo. Processa uma narrativa por vês e contempla uma porção do real, logo sempre tem um viés.
 
-A  consciência só pode ser projetada em um lugar. é uma instância linear e não nos permite que tenhamos consciência instantânea em várias coisas e lugares ao mesmo tempo. Processa uma narrativa por vês e contempla uma porção do real, logo sempre tem um viés.
+## Percepção da morte
+
+Em algum momento da infância nós entendemos que vamos morrer. Por saber que vamos morrer podemos nos preparar para a morte, evitá-la, prolongar a vida ou aumentar sua qualidade. Atualmente podemos inclusive prever o tempo deste momento.
+
+## Agir contra a própria natureza
+
+
+## Conceitos éticos
+
+
+## Percepção do outro
+
+
+## Percepção do meio
+
 
 ## O homem como ser consciente
 
-Acredito que o homem é o único ser material criado por Deus dotado de consciência. Os animais podem até apresentar comportamentos ditos conscientes; contudo não reúnem todas as características que observo no ser humano. 
-
-Sim, minha convicção nasceu baseado na religião até se expandir para uma ideia filosófica. Busco base bíblica para todas as minhas teorias e percepções. Não tenho problemas com isso uma vez que acredito que na Bíblia se reúnem vários textos de pensadores que registraram suas percepções além da fé que o próprio Deus os inspirou com a finalidade de orientar os homens no caminho do autoconhecimento e do conhecimento de Deus.
+Acredito que o homem é o único ser material criado por Deus dotado de consciência. Os animais podem até apresentar comportamentos ditos conscientes; contudo não reúnem todas as características que observo no ser humano. Atualmente os pensadores os classificam como sencientes. 
 
 Sendo o homem o único ser consciente e sendo eu um homem pensante, analiso minhas próprias percepções, buscando compreender às de outros pensadores. 
 

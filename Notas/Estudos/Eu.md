@@ -1,5 +1,8 @@
-#Consciência
-
+---
+tags:
+  - Estudo
+  - Conceito
+---
 [[Consciência]]
 
 Está no ramo de estudo da [[Ontologia|ontologia]].
