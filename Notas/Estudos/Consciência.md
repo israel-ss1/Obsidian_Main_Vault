@@ -32,7 +32,11 @@ Perceber a existência é uma das primeiras qualidades subjetivas observáveis n
 
 Analisando alguns cenários, podemos observar que estas percepções compreendem dois aspectos: de que existimos e de que somos únicos. A existência é extra-sensorial, não depende dos sentidos para percebermos que existimos e o segundo aspecto dele é que o fato de nos transformarmos não a afeta.
 
-Já a ideia de que somos únicos vem da nossa compreensão de tempo e espaço. Entendemos que vivemos somente o presente e que o que fica no passado não existe mais. Além disso o controle que temos do futuro é a previsibilidade e a incerteza. Já o espaço diz respeito a entender que somente uma pessoa pode ocupa-lo ao mesmo tempo. Além disso, a nossa consciência só pode ser projetada em um lugar. 
+Já a ideia de que somos únicos vem da nossa compreensão de tempo e espaço. Entendemos que vivemos somente o presente e o que fica no passado não existe mais. Além disso o controle que temos do futuro é previsibilidade e a incerteza. 
+
+Já o espaço diz respeito a entender que somente uma pessoa pode ocupa-lo ao mesmo tempo. 
+
+A  consciência só pode ser projetada em um lugar. é uma instância linear e não nos permite que tenhamos consciência instantânea em várias coisas e lugares ao mesmo tempo. Processa uma narrativa por vês e contempla uma porção do real, logo sempre tem um viés.
 
 ## O homem como ser consciente
 
