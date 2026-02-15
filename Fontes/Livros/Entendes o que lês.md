@@ -1,10 +1,12 @@
 ---
 Livro: Entendes o que lês?
-Autor: Fee, Gordon D; Stuart Douglas
+Autor: "[[Gordon D Fee|Fee Gordon D]]"
 Editora: Vida Nova
 Ano: "1984"
 ---
 # Entendes o que lês?
+
+[[Gordon D Fee]] e Dougls Stuart.
 
 A frase do título do livro faz menção ao episódio do apóstolo Felipe quando este pregou para o eunuco de Candance em sua carruagem, enquanto ele lia o livro de Isaías ([[Atos 8#^v26|Atos 8.26-40]]).
 
