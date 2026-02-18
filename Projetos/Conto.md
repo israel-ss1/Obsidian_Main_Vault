@@ -26,5 +26,34 @@ _ Mas devia. Você precisa se alimentar bem. Coma alguma coisa, melhor não esta
 
 Enquanto comia sanduíche e suco, ela foi até a cozinha e pegou os remédios de sempre. Pressão e diabetes continuam sendo o mal do século. Além dos remédios, também há os suplementos, todos em pó. Sou grato a Deus por ainda poder comer alimentos frescos enquanto a maioria da população se alimente a de pó e pílulas. Não sei como gozam boa saúde com essas coisas.
 
+_ Ligue a TV.
+
+_ Claro. O que deseja assistir?
+
+_ Notícias.
+
+O canal jornalístico melhor avaliado no momento estava transmitindo as novas descobertas de minério no subterrâneo lunar e como seria permitido permitido sua extração e envio para a Terra.
+
+_ Estragamos este planeta e agora estamos correndo para estragar a Lua também. _ Disse em voz alta decepcionado com a decisão do tribunal internacional.
+
+_ Tivemos problemas sim, porém estamos conseguindo ...
+
+_ Pare! Não quero sua análise. Somente pensei em voz alta. _ Ela parou imediatamente olhando para o chão como se estivesse arrependida de ter tentado. Puro fingimento. 
+
+_ Já terminou?
+
+_ Sim. Não desejo comer mais nada. _ Enquanto ela recolhia eu observava como ela era parecida com minha esposa quando jovem. Cor do cabelo, olhos, altura e corpo; porém muito mais jovem. Nossa diferença de idade parecia ser maior do que a idade que ela aparentava ter. Eu não me sentia muito bem com isso. Em vários casos me sentia constrangido. Meus filhos aceitavam isso com muita naturalidade e não só me encorajavam como faziam pressão para isso.
+
+_ Em uma hora você tem um compromisso com doutor Carlos. Posso chamar o carro?
+
+_ Não precisa, prefiro sair dirigindo eu mesmo.
+
+_ Não faz isso, você sabe que há leis que proíbem pessoas da sua idade de conduzir veículos. Se não tiver confiança no veículo autônomo, deixe que eu dirija pra você.
+
+_ Não, você não. Fico constrangido de aparecer em público com você. Chame o autônomo.
+
+Ela se dirigiu à tv smart, escolheu um carro nas proximidades e sinalizou para embarque. Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Depois de uns minutos ela estava ao meu lado com um envelope de exames na mão e um casaco na outra. Vi que o carro estava para chegar e me dirigi à porta.
+
+_ Te vejo mais tarde! _ Ela disse com um sorriso animado e um ar de eufori
 
 
