@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fontes/Biografias/Gordon D Fee.md",
+                "file": "Projetos/Conto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gordon D Fee"
+              "title": "Conto"
             }
           },
           {
@@ -47,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fontes/Biografias/Gordon D Fee.md",
+                "file": "Projetos/Conto.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -104,7 +104,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Gordon D Fee"
+              "title": "Gráfico de Conto"
             }
           }
         ]
@@ -270,8 +270,10 @@
   },
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
-    "Fontes/Livros/Entendes o que lês.md",
     "Fontes/Biografias/Gordon D Fee.md",
+    "Projetos/Conto.md",
+    "Projetos",
+    "Fontes/Livros/Entendes o que lês.md",
     "Fontes/Biografias/Adauto Lourenço.md",
     "Fontes/Biografias/Autores Bíblicos/Paulo.md",
     "Fontes/Livros/Canon Bíblico/1 Coríntios.md",
@@ -295,7 +297,6 @@
     "Notas/Bíblia/20 Provérbios/Provérbios 9.md",
     "Notas/Bíblia/20 Provérbios/Provérbios 16.md",
     "Notas/Bíblia/01 Gênesis/Gênesis 45.md",
-    "Notas/Bíblia/20 Provérbios/Provérbios 3.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
@@ -306,7 +307,6 @@
     "Fontes/Biografias/Autores Bíblicos",
     "Fontes/Livros/Canon Bíblico",
     "Notas/Bíblia/Mateus",
-    "Notas/Bíblia/Deuteronômio",
-    "Notas/Bíblia/biblia_nva.csv"
+    "Notas/Bíblia/Deuteronômio"
   ]
 }
