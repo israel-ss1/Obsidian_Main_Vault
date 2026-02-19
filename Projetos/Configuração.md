@@ -13,7 +13,7 @@ _ Bom dia! hora de acordar. _ Não perguntou se dormi bem pois sabia que sim.
 
 _ Não faça mais isso por favor. 
 
-Com cara de decepção, se levantou da lateral da cama e se afastou uns metros. Sabia que era tudo fingimento. Acordara mais cedo com certeza. Estava arrumada de forma recatada mas atraente, penteada e perfumada com um de meus perfumes favoritos. 
+Com cara de decepção, ela se levantou da lateral da cama e se afastou uns metros. Era tudo fingimento. Despertou mais cedo com certeza. Providenciou tudo que era necessário e depois se deitou ao meu lado para me acordar com um ar de perfeição. Estava arrumada de forma recatada mas atraente, penteada e perfumada com um de meus perfumes favoritos. Ar de boa moça e submissa.
 
 _ Vamos, preparei o seu banho. Precisa se mexer para não se atrasar.
 
@@ -23,7 +23,7 @@ _ Não gostei do nó. Amanhã faça o de sempre.
 
 _ Esse nó é mais moderno. Lhe cai muito bem.
 
-_ Talvez para alguém de sua geração.
+_ Talvez para alguém de outra geração.
 
 Saí do recinto me dirigindo para a cozinha a fim de tomar um rápido café lá mesmo, como sempre faço. Não consegui. A mesa da sala estava posta como se fosse um dia especial. Café da manhã completo: pão, bolo, frios, frutas e suco.
 
@@ -39,7 +39,7 @@ _ Claro. O que deseja assistir?
 
 _ Notícias.
 
-O canal jornalístico melhor avaliado nas redes sociais no momento estava transmitindo as novas descobertas de minério no subterrâneo lunar e como seria permitido sua extração e envio para a Terra.
+Ela ligou a TV e o canal jornalístico melhor avaliado nas redes sociais no momento estava transmitindo as novas descobertas de minério no subterrâneo lunar e como seria permitido sua extração e envio para a Terra.
 
 _ Estragamos este planeta e agora estamos correndo para estragar a Lua também. _ Disse em voz alta decepcionado com a decisão do tribunal internacional.
 
@@ -47,9 +47,9 @@ _ Tivemos problemas sim, porém estamos conseguindo ...
 
 _ Pare! Não quero sua análise. Somente pensei em voz alta. _ Ela parou imediatamente olhando para o chão como se estivesse arrependida de ter tentado. Muito dissimulada. 
 
-_ Já terminou?
+_ Já terminou!?
 
-_ Sim. Não desejo comer mais nada. _ Enquanto ela recolhia eu observava como ela era parecida com minha esposa quando jovem. Cor do cabelo, olhos, altura e corpo; porém muito mais jovem. Nossa diferença de idade parecia ser maior do que a idade que ela aparentava ter. Eu não me sentia muito bem com isso. Meus filhos aceitavam isso com muita naturalidade e não só me encorajavam como faziam pressão para isso.
+_ Sim. Não desejo comer mais nada. _ Enquanto ela recolhia eu observava como ela era parecida com minha esposa quando jovem. Cor do cabelo, olhos, altura e corpo; porém muito mais jovem. Nossa diferença de idade parecia ser maior do que a idade que ela aparentava ter. Eu não me sentia muito bem com isso. Meus filhos aceitavam isso com muita naturalidade e não só me encorajavam como faziam pressão para isso. 
 
 _ Em uma hora você tem um compromisso com doutor Carlos. Posso chamar o carro?
 
@@ -59,7 +59,9 @@ _ Não faz isso, você sabe que há leis que proíbem pessoas da sua idade de co
 
 _ Não, você não. Fico constrangido de aparecer em público com você. Chame o autônomo.
 
-Ela se dirigiu à tv smart, escolheu um carro nas proximidades e sinalizou para embarque. Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Depois de uns minutos ela estava ao meu lado com um envelope de exames na mão e um casaco na outra. Vi que o carro estava para chegar e me dirigi à porta.
+Ela se dirigiu à TV e a coloco em modo smatphone. Piscou para o ícone de transporte colaborativo, escolheu um carro nas proximidades e sinalizou para embarque em 10 minutos.  É impressionante o quanto a tecnologia vem para facilitar o homem mas tem problemas com os velhos. Não consigo mais comandar o apontador com a íris porque o sensor não identifica se minhas flácidas pálpebras estão abertas ou fechadas, por causa disso o clique não efetiva mais com o piscar. Esses pequenos detalhes me fazem depender mais e mais dela.
+
+Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Isso não é possível quando estou embarcado. Por causa da "experiência premium" olhar pela Depois de uns minutos ela estava ao meu lado com um envelope de exames na mão e um casaco na outra. Vi que o carro estava para chegar e me dirigi à porta.
 
 _ Te vejo mais tarde! _ Disse com um sorriso animado e um ar de euforia. Me entregou os itens e o casaco e, aproveitando que estava abaixado verificando o envelope, me beijou o rosto.
 
