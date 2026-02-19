@@ -17,7 +17,7 @@ Com cara de decepção, ela se levantou da lateral da cama e se afastou uns metr
 
 _ Vamos, preparei o seu banho. Precisa se mexer para não se atrasar.
 
-Me levantei, calcei os chinelos e me dirigi para o banheiro. De fato tudo estava pronto: toalhas limpas e secas, temperatura do banheiro e da água regulados e todos os itens para banho disponíveis. Fui me despindo aos poucos, com a dificuldade de sempre, enquanto ela me observava. Ao final, ela recolheu todas as roupas e se retirou, mas sabia que estaria na porta me esperando. Quando saí, dito e feito. Estava lá com minhas roupas. Me ajudou a me vestir colocando minha gravata com toda atenção. Me chamou a atenção o nó moderno que a maioria desses almofadinhas modernos usam. 
+Me levantei, calcei os chinelos e me dirigi para o banheiro. De fato tudo estava pronto: toalhas limpas e secas, temperatura do banheiro e da água regulados e todos os itens para banho disponíveis. Fui me despindo aos poucos, com a dificuldade de sempre, enquanto ela me observava. Ao final, ela recolheu todas as roupas e se retirou, mas sabia que estaria na porta me esperando. Quando saí, dito e feito. Estava lá com minhas roupas. Me ajudou a me vestir colocando minha gravata com toda atenção. Me chamou a atenção o nó moderno que a maioria desses almofadinhas usam. 
 
 _ Não gostei do nó. Amanhã faça o de sempre.
 
@@ -45,7 +45,7 @@ _ Estragamos este planeta e agora estamos correndo para estragar a Lua também. 
 
 _ Tivemos problemas sim, porém estamos conseguindo ...
 
-_ Pare! Não quero sua análise. Somente pensei em voz alta. _ Ela parou imediatamente olhando para o chão como se estivesse arrependida de ter tentado. Muito dissimulada. 
+_ Pare! Não quero sua análise. Somente pensei em voz alta. _ Ela parou imediatamente olhando para o chão como se estivesse arrependida de ter tentado. Muito dissimulada. Detesto quando ela resolve apresentar análise de tudo como se fosse especialista.
 
 _ Já terminou!?
 
@@ -61,7 +61,11 @@ _ Não, você não. Fico constrangido de aparecer em público com você. Chame o
 
 Ela se dirigiu à TV e a coloco em modo smatphone. Piscou para o ícone de transporte colaborativo, escolheu um carro nas proximidades e sinalizou para embarque em 10 minutos.  É impressionante o quanto a tecnologia vem para facilitar o homem mas tem problemas com os velhos. Não consigo mais comandar o apontador com a íris porque o sensor não identifica se minhas flácidas pálpebras estão abertas ou fechadas, por causa disso o clique não efetiva mais com o piscar. Esses pequenos detalhes me fazem depender mais e mais dela.
 
-Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Isso não é possível quando estou embarcado. Por causa da "experiência premium" olhar pela Depois de uns minutos ela estava ao meu lado com um envelope de exames na mão e um casaco na outra. Vi que o carro estava para chegar e me dirigi à porta.
+Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Dava para ver as ruas, o comércio e perceber o caótico transito da zona noroeste do Rio. Nunca faço isso quando estou embarcado. Depois que estes veículos passaram a operar com satélites com precisão de milímetros, todo o tempo se tem a percepção de iminentes acidentes, mas que não se concretizam. Isso me dá uma ansiedade enorme quando estou no carro. Talvez eu tenha esta impressão por causa da lembrança de como era antes. Por causa disto, prefiro que as janelas monitores exibam outras coisas durante o trajeto.
+
+Depois de uns minutos ela estava ao meu lado com alguns dos meus pertences e um casaco na outra. Um homem das antigas andaria com chaves de casa, carteira com notas de dinheiro, identidade, telefone, cartões de crédito, óculos, livros e etc. Tudo ficou no passado. É difícil explicar porque tínhamos isso. Hoje, tudo que precisa de acesso é biométrico: chaves, cartões e veículos. A tela do smartfone passou para a tela no óculos, assim como o livro, e todos os app que usávamos anteriormente.
+
+Vi que o carro estava para chegar e me dirigi à porta.
 
 _ Te vejo mais tarde! _ Disse com um sorriso animado e um ar de euforia. Me entregou os itens e o casaco e, aproveitando que estava abaixado verificando o envelope, me beijou o rosto.
 
