@@ -8,7 +8,7 @@
 
 # Notas Livros
 
-- [ ] Entendes o que lês?
+- [x] Entendes o que lês?
 - [ ] 12 Conselhos para a vida
 
 

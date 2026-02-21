@@ -19,11 +19,11 @@ _ Vamos, preparei o seu banho. Precisa se mexer para não se atrasar.
 
 Me levantei, calcei os chinelos e me dirigi para o banheiro. De fato tudo estava pronto: toalhas limpas e secas, temperatura do banheiro e da água regulados e todos os itens para banho disponíveis. Fui me despindo aos poucos, com a dificuldade de sempre, enquanto ela me observava. Ao final, ela recolheu todas as roupas e se retirou, mas sabia que estaria na porta me esperando. Quando saí, dito e feito. Estava lá com minhas roupas. Me ajudou a me vestir colocando minha gravata com toda atenção. Me chamou a atenção o nó moderno que a maioria desses almofadinhas usam. 
 
-_ Não gostei do nó. Amanhã faça o de sempre.
+_ Não gosto dessa camisa. Esses tecidos tecnológicos são muito lisos e brilhosos.
 
-_ Esse nó é mais moderno. Lhe cai muito bem.
+_ Ela lhe cai muito bem. Não amassa e não pega cheiro e te deixa muito atraente.
 
-_ ==Talvez para alguém de outra geração.==
+_ É justamente isso que é esquisito, o que na natureza não amassa. Tudo parece muito artificial. 
 
 Saí do recinto me dirigindo para a cozinha a fim de tomar um rápido café lá mesmo, como sempre faço. Não consegui. A mesa da sala estava posta como se fosse um dia especial. Café da manhã completo: pão, bolo, frios, frutas e suco.
 
@@ -33,9 +33,13 @@ _ Mas devia. Você precisa se alimentar bem. Coma alguma coisa. Melhor não esta
 
 Enquanto comia sanduíche e suco, ela foi até a cozinha e pegou os remédios de sempre. Pressão e diabetes continuam sendo o mal do século. Além dos remédios, também há os suplementos, todos em pó. Sou grato a Deus por ainda poder comer alimentos frescos enquanto a maioria da população se alimenta de pó e pílulas. Não sei como gozam boa saúde com essas coisas.
 
-_ Ligue a TV.
+_ Droga, onde está o controle da TV!
 
-_ Claro. O que deseja assistir?
+_ Quer ligar a TV? Porque não usa os controles gestuais?_
+
+_ Não gosto de passar o dia acenando para a TV, muito menos falando com objetos ou piscando para sensores. Me sinto ridículo. _ Na verdade, também não gosto dos controles de hoje em dia. São universais e feitos para velhos. Tem botões enormes, isso quando não tem um monte deles. Tudo isso porque as marcas de TV pararam de fazer controles específicos. Tudo é por gesto.
+
+_ Deixa que eu ligo a TV. O que quer assistir?
 
 _ Notícias.
 
@@ -51,7 +55,7 @@ _ Já terminou!?
 
 _ Sim. Não desejo comer mais nada. _ Enquanto ela recolhia eu observava como ela era parecida com minha esposa quando jovem. Cor do cabelo, olhos, altura e corpo; porém muito mais jovem. Nossa diferença de idade parecia ser maior do que a idade que ela aparentava ter. Eu não me sentia muito bem com isso. Meus filhos aceitavam isso com muita naturalidade e não só me encorajavam como faziam pressão para isso. 
 
-_ Em uma hora você tem um compromisso com doutor Carlos. Posso chamar o carro?
+_ Em uma hora você tem um compromisso presencial com doutor Carlos. Posso chamar o carro?
 
 _ Não precisa, prefiro sair dirigindo eu mesmo.
 
@@ -63,11 +67,11 @@ Ela se dirigiu à TV e a coloco em modo smatphone. Piscou para o ícone de trans
 
 Aguardei sentado enquanto assistia a câmera do carro que estava indo para o meu endereço. Dava para ver as ruas, o comércio e perceber o caótico transito da zona noroeste do Rio. Nunca faço isso quando estou embarcado. Depois que estes veículos passaram a operar com satélites com precisão de milímetros, todo o tempo se tem a percepção de iminentes acidentes, mas que não se concretizam. Isso me dá uma ansiedade enorme quando estou no carro. Talvez eu tenha esta impressão por causa da lembrança de como era antes. Por causa disto, prefiro que as janelas monitores exibam outras coisas durante o trajeto.
 
-Depois de uns minutos ela estava ao meu lado com alguns dos meus pertences e um casaco na outra. Um homem das antigas andaria com chaves de casa, carteira com notas de dinheiro, identidade, telefone, cartões de crédito, óculos, livros e etc. Tudo ficou no passado. É difícil explicar porque tínhamos isso. Hoje, tudo que precisa de acesso é biométrico: chaves, cartões e veículos. A tela do smartfone passou para a tela no óculos, assim como o livro, e todos os app que usávamos anteriormente.
+Depois de uns minutos ela estava ao meu lado com minha videira e uma jaqueta que mais parece uma armadura. Um homem das antigas andaria com chaves de casa, carteira com notas de dinheiro, identidade, telefone, cartões de crédito, óculos, livros e etc. Tudo ficou no passado. É difícil explicar porque tínhamos isso. Hoje, tudo que precisa de acesso é biométrico: chaves, cartões e veículos. A tela do smartfone passou para a tela da viseira que é uma espécie de óculos inteligentes. Nela eu uso todos os app que um dia foram no smartfone. leio livros, faço chamadas de vídeo, uso GPS e tudo que já sabemos.
 
 Vi que o carro estava para chegar e me dirigi à porta.
 
-_ Te vejo mais tarde! _ Disse com um sorriso animado e um ar de euforia. Me entregou os itens e o casaco e, aproveitando que estava abaixado verificando o envelope, me beijou o rosto.
+_ Te vejo mais tarde! _ Disse com um sorriso animado e um ar de euforia. Me entregou os itens e, aproveitando que estava abaixado verificando, me beijou o rosto.
 
 _ NÃO FAÇA MAIS ISSO! NÃO SOMOS ÍNTIMOS! _ Tive que ser bem claro. Ela recuou e se desculpou. Seus olhos não me encaravam mais. Uma pequena lágrima desceu brilhando na pele. ==Drama do mais barato==. Entrei no carro e fui embora sem olhar para trás. 
 
