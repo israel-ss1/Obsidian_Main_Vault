@@ -50,8 +50,7 @@ Doar é entregar, transferir ou dar algo sem receber nada em troca. Se você rec
 
 Aqui aprendemos que perdão envolve preço, prejuízo, valor.
 
-E 
-[[Mateus 18|Mateus 18]], Jesus fala sobre perdão e usa a parábola do credor incompassivo onde podemos observar várias destas características. 
+Em [[Mateus 18|Mateus 18]], Jesus fala sobre perdão e usa a parábola do credor incompassivo onde podemos observar várias destas características. 
 - Existem dívidas e dívidas impagáveis;
 - É possível recebera graça de Deus em vão. Em [[2 Coríntios 6#^v1|2 Coríntios 6.1]], vemos Paulo falando a respeito de não dar escândalo para que nosso ministério seja censurado e fazendo vã a graça de Deus.
 - É mais fácil olhar para as pequenas ofensas feita a nós do que as nossas grandes ofensas feitas a Deus;
