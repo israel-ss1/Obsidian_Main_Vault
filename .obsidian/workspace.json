@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estudos/A Tentação de Jesus.md",
+                "file": "Notas/Sermão/17 - Perdão.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Tentação de Jesus"
+              "title": "17 - Perdão"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Estudos/A Tentação de Jesus.md",
+                "file": "Notas/Sermão/17 - Perdão.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de A Tentação de Jesus"
+              "title": "Gráfico de 17 - Perdão"
             }
           }
         ]
@@ -257,6 +257,9 @@
   "active": "3ade9e21d4561839",
   "lastOpenFiles": [
     "Atividades.md",
+    "Notas/Estudos/Morte.md",
+    "Notas/Estudos/Eu.md",
+    "Notas/Estudos/A Tentação de Jesus.md",
     "Fontes/Livros/Entendes o que lês.md",
     "Fontes/Biografias/Gordon D Fee.md",
     "Projetos/Configuração.md",
@@ -266,7 +269,6 @@
     "Fontes/Livros/Canon Bíblico/1 Coríntios.md",
     "Fontes/Biografias/Autores Bíblicos/Ageu.md",
     "Notas/Estudos/Consciência.md",
-    "Notas/Estudos/Eu.md",
     "Notas/Estudos/Alma.md",
     "Notas/Estudos/Caos.md",
     "Notas/Estudos/Batismo.md",
@@ -275,14 +277,12 @@
     "Notas/Estudos/Amor.md",
     "Notas/Estudos/Afeto.md",
     "Notas/Sermão/05 - A armadura de Deus.md",
-    "Notas/Estudos/A Tentação de Jesus.md",
     "Notas/Estudos/Vontade.md",
     "Notas/Estudos/Sabedoria.md",
     "Notas/Bíblia/59 Tiago/Tiago 3.md",
     "Notas/Bíblia/59 Tiago/Tiago 1.md",
     "Notas/Bíblia/19 Salmos/Salmos 111.md",
     "Notas/Bíblia/20 Provérbios/Provérbios 9.md",
-    "Notas/Bíblia/20 Provérbios/Provérbios 16.md",
     "Imagens/Adauto_Lourenço.webp",
     "Imagens/Tassos_Lycurgo.avif",
     "Imagens/Não confirmado 970601.crdownload",
